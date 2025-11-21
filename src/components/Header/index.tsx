@@ -5,12 +5,11 @@ import {useGlobal} from "../../hooks/useGlobal.ts";
 import logotipo from "../../assets/connectech.png";
 import logotipoDark from "../../assets/connectech-dark.png";
 import smallLogo from "../../assets/connectech-small.png";
-import defaultUser from "../../assets/default-user.jpg";
 import {HiMiniBars3CenterLeft} from "react-icons/hi2";
 import {FaRegMoon, FaRegSun} from "react-icons/fa6";
 
 export default function Header() {
-    const {user, screenWidth, links, setTheme, theme} = useGlobal()
+    const {screenWidth, links, setTheme, theme} = useGlobal()
     const [opened, setOpened] = useState<boolean>(false);
     const buttonRef = useRef<HTMLButtonElement | null>(null);
     const menuLateralRef = useRef<HTMLDivElement | null>(null);

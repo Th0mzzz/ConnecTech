@@ -163,7 +163,7 @@ export default function UserDialog({user, onClose, open}: { user?: User, open: b
                                                 <div className="flex flex-col gap-2">
                                                     {user.experiencias.map((experiencia) => (
                                                         <div
-                                                            className={"bg-gray-100 border-1 border-[var(--border-color)] rounded-lg p-3"}>
+                                                            className={"bg-[var(--border-color)] border-1 border-[var(--border-color)] rounded-lg p-3"}>
                                                             <div
                                                                 className={"flex items-center justify-between gap-2"}>
 
@@ -193,7 +193,7 @@ export default function UserDialog({user, onClose, open}: { user?: User, open: b
                                                 <div className="flex flex-col gap-2">
                                                     {user.formacao.map((f) => (
                                                         <div
-                                                            className={"bg-gray-100 border-1 border-[var(--border-color)] rounded-lg p-3"}>
+                                                            className={"bg-[var(--border-color)] border-1 border-[var(--border-color)] rounded-lg p-3"}>
                                                             <div
                                                                 className={"flex items-center justify-between gap-2"}>
 
@@ -221,7 +221,7 @@ export default function UserDialog({user, onClose, open}: { user?: User, open: b
                                                     {user.projetos.map((f) => (
                                                         <Link
                                                             to={f.link}
-                                                            className={"bg-gray-100 border-1 border-[var(--border-color)] rounded-lg p-3"}>
+                                                            className={"bg-[var(--border-color)] border-1 border-[var(--border-color)] rounded-lg p-3"}>
                                                             <div
                                                                 className={"flex items-center justify-between gap-2"}>
                                                                 <h4 className="link mb-1 text-[var(--secondary)]">
@@ -243,7 +243,7 @@ export default function UserDialog({user, onClose, open}: { user?: User, open: b
                                                 <div className="flex flex-col gap-2">
                                                     {user.certificacoes.map((certificacao) => (
                                                         <div
-                                                            className={"bg-gray-100 border-1 border-[var(--border-color)] rounded-lg p-3"}>
+                                                            className={"bg-[var(--border-color)] border-1 border-[var(--border-color)] rounded-lg p-3"}>
                                                             <div
                                                                 className={"flex items-center justify-between gap-2"}>
                                                                 <h4 className="link text-[var(--secondary)]">
