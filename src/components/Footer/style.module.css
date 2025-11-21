@@ -3,16 +3,9 @@
     margin-top: auto;
     padding: 1rem;
     border-top: 1px solid var(--border-color);
+    display: flex;
 }
 
 .logotipo {
     width: clamp(180px, 25vw, 200px);
 }
-
-/*@media (max-width: 596px) {*/
-/*    .logotipo {*/
-/*        & img {*/
-/*            width: clamp(55px, 40vw, 65px);*/
-/*        }*/
-/*    }*/
-/*}*/

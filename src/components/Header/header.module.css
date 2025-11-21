@@ -1,6 +1,6 @@
 .header {
     width: 100%;
-    background-color: #ffffff;
+    background-color: var(--surface);
     border: var(--border-color) solid 2px;
 
     & nav {
