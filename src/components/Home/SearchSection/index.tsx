@@ -98,6 +98,11 @@ export default function SearchSection() {
                     onClose={() => {
                         setIsModalOpen(false)
                         setSelectedUser(null)
+                        params[1](prev => {
+                            const next = new URLSearchParams(prev);
+                            next.delete("userId");
+                            return next;
+                        });
                     }}
                     user={selectedUser}
                 />
