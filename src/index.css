@@ -1,74 +1,78 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@layer base {
 
-:root {
-    --primary: #6C5CE7;
-    --primary-bold: #5946D6;
-    --secondary: #4E71FF;
-    --bg: #F6F8FB;
-    --surface: #FFFFFF;
-    --text: #0B1220;
-    --border-color: #E6EAF2;
-    --success: #2ECC71;
-    --danger: #FF4D4F;
-    --warning: #FFB020;
-    --diamond: #8CE4FF;
-    --gold: #F2A154;
-    --prata: #BCCCDC;
-    --bronze: #E2A16F;
-    --max-content: 1240px;
-    --ff-title: 'Poppins', Verdana, Geneva, Tahoma, sans-serif;
-    --ff-subtitle: 'Inter', Arial, Helvetica, sans-serif;
-    --ff-link: 'Inter', Verdana, Geneva, Tahoma, sans-serif;
-    --ff-text: 'Inter', Arial, Helvetica, sans-serif;
-    --ff-smalltext: 'Roboto', Geneva, Tahoma, sans-serif;
-}
+    :root {
+        --primary: #6C5CE7;
+        --primary-bold: #5946D6;
+        --secondary: #4E71FF;
+        --bg: #F6F8FB;
+        --surface: #FFFFFF;
+        --text: #0B1220;
+        --border-color: #E6EAF2;
+        --success: #2ECC71;
+        --danger: #FF4D4F;
+        --warning: #FFB020;
+        --diamond: #8CE4FF;
+        --gold: #F2A154;
+        --prata: #BCCCDC;
+        --bronze: #E2A16F;
+        --max-content: 1240px;
+        --ff-title: 'Poppins', Verdana, Geneva, Tahoma, sans-serif;
+        --ff-subtitle: 'Inter', Arial, Helvetica, sans-serif;
+        --ff-link: 'Inter', Verdana, Geneva, Tahoma, sans-serif;
+        --ff-text: 'Inter', Arial, Helvetica, sans-serif;
+        --ff-smalltext: 'Roboto', Geneva, Tahoma, sans-serif;
+    }
 
-.dark {
-    --primary: #8C7DFE;
-    --primary-bold: #6C5CE7;
-    --secondary: #6E8FFF;
-    --bg: #0B1220;
-    --surface: #111827;
-    --text: #E6EEF8;
-    --border-color: #1F2937;
-}
+    .dark {
+        --primary: #8C7DFE;
+        --primary-bold: #6C5CE7;
+        --secondary: #6E8FFF;
+        --bg: #0B1220;
+        --surface: #111827;
+        --text: #E6EEF8;
+        --border-color: #1F2937;
+    }
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Inter', 'Poppins', 'Roboto', sans-serif;
-}
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Inter', 'Poppins', 'Roboto', sans-serif;
+    }
 
-body {
-    background-color: var(--bg);
-    color: var(--text);
-}
+    body {
+        background-color: var(--bg);
+        color: var(--text);
+    }
 
-.title {
-    font-family: var(--ff-title);
-    font-weight: bold;
-    font-size: clamp(29px, 5vw, 32px);
-}
+    .title {
+        font-family: var(--ff-title);
+        font-weight: bold;
+        font-size: clamp(29px, 5vw, 32px);
+    }
 
-.subtitle {
-    font-family: var(--ff-subtitle);
-    font-weight: 700;
-    font-size: clamp(22px, 3.5vw, 25px);
-}
+    .subtitle {
+        font-family: var(--ff-subtitle);
+        font-weight: 700;
+        font-size: clamp(22px, 3.5vw, 25px);
+    }
 
-.link {
-    font-family: var(--ff-link);
-    font-weight: 600;
-    font-size: 16px;
-}
-.text {
-    font-family: var(--ff-text);
-    font-weight: 400;
-    font-size: 14px;
-}
-.smalltext {
-    font-family: var(--ff-smalltext);
-    font-weight: 400;
-    font-size: 12px;
+    .link {
+        font-family: var(--ff-link);
+        font-weight: 600;
+        font-size: 16px;
+    }
+
+    .text {
+        font-family: var(--ff-text);
+        font-weight: 400;
+        font-size: 14px;
+    }
+
+    .smalltext {
+        font-family: var(--ff-smalltext);
+        font-weight: 400;
+        font-size: 12px;
+    }
 }
