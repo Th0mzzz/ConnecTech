@@ -1,73 +1,64 @@
-# React + TypeScript + Vite
+# ConnecTech
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Plataforma certa para a conexão certa!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Resumo do Projeto
+O **ConnecTech** é uma plataforma web desenvolvida para facilitar a conexão de profissionais de tecnologia com oportunidades de trabalho, projetos colaborativos e eventos do setor. Com uma interface intuitiva e recursos avançados, o ConnecTech visa criar uma comunidade vibrante onde talentos e oportunidades se encontram de maneira eficiente.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Funcionalidades principais:
+- **Pesquisa Avançada:** Encontre oportunidades e profissionais com filtros detalhados.
+- **Sistema de Mensagens:** Comunicação direta entre usuários para networking eficaz.
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Instalação do Projeto
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+Siga o passo a passo abaixo para rodar o ConnecTech localmente.
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+### ✔️ Pré-requisitos
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+* Node.js 20+
+* NPM ou Yarn
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+### ✔️ Passo a passo
+
+```sh
+# Clone o repositório
+git clone <URL-DO-REPOSITORIO>
+cd connectech
+
+# Instale as dependências
+npm install
+
+# Rode o projeto
+npm run dev
+
+# Acesse a aplicação (vite)
+http://localhost:5173/
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+---
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## 🚀 Link do Deploy
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+👉 **Deploy:** *https://connectech-rose.vercel.app/*
+
+---
+
+## 📂 Link do Repositório
+
+👉 **Repositório GitHub:** *https://github.com/Th0mzzz/ConnecTech*
+
+---
+
+## 👥 Integrantes do Grupo
+
+* Nome: Isabela de Deus Ferreira — RM:565988
+* Nome: Thomaz Vasconcelos Mendes — RM:564805
+* Nome: Nicolas Tetsuo Kimura — RM:565377
+
+---
+
+
