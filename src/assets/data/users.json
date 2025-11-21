@@ -1,8 +1,2163 @@
 [
   {
     "id": 1,
-    "nome": "Usuário Demo",
-    "img": ""
+    "nome": "Laura Fernandes",
+    "foto": null,
+    "cargo": "Desenvolvedora Front-End",
+    "telefone": "11940129027",
+    "resumo": "Especialista em interfaces modernas e acessíveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "JavaScript", "TailwindCSS"],
+    "email": "laura0123@gmail.com",
+    "senha": "senha123",
+    "softSkills": ["Comunicação", "Colaboração", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "TechVision",
+        "cargo": "Front-End Developer",
+        "inicio": "2022-03",
+        "fim": "2024-07",
+        "descricao": "Criação de interfaces responsivas e acessíveis com React e Tailwind."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Software", "instituicao": "FIAP", "ano": 2023 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Analytics",
+        "link": "https://github.com/laurafernandes/dashboard",
+        "descricao": "Painel interativo para análise de métricas em tempo real."
+      }
+    ],
+    "certificacoes": ["Google UX Design Certificate"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["UI/UX", "Educação Digital"]
+  },
+  {
+    "id": 2,
+    "nome": "Pedro Almeida",
+    "foto": null,
+    "cargo": "Desenvolvedor Back-End",
+    "telefone": "11945012011",
+    "resumo": "Focado em APIs escaláveis e microsserviços.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "TypeScript", "PostgreSQL"],
+    "email": "pedro.almeida@example.com",
+    "senha": "senha123",
+    "softSkills": ["Resolução de Problemas", "Colaboração", "Gestão de Tempo"],
+    "experiencias": [
+      {
+        "empresa": "DataBridge",
+        "cargo": "Back-End Developer",
+        "inicio": "2021-05",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de APIs REST e integração com serviços externos."
+      }
+    ],
+    "formacao": [
+      { "curso": "Ciência da Computação", "instituicao": "USP", "ano": 2022 }
+    ],
+    "projetos": [
+      {
+        "titulo": "API Finance",
+        "link": "https://github.com/pedroalmeida/api-finance",
+        "descricao": "Serviço para processamento de transações financeiras."
+      }
+    ],
+    "certificacoes": ["AWS Cloud Practitioner"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Arquitetura", "Escalabilidade"]
+  },
+  {
+    "id": 3,
+    "nome": "Mariana Costa",
+    "foto": null,
+    "cargo": "UX Designer",
+    "telefone": "11941003022",
+    "resumo": "Cria experiências centradas no usuário para produtos digitais.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Design Thinking", "Prototipagem"],
+    "email": "mariana.costa@example.com",
+    "senha": "senha123",
+    "softSkills": ["Empatia", "Comunicação", "Pesquisa"],
+    "experiencias": [
+      {
+        "empresa": "InnovApps",
+        "cargo": "UX Designer",
+        "inicio": "2022-01",
+        "fim": "2024-07",
+        "descricao": "Pesquisa com usuários e criação de wireframes e protótipos."
+      }
+    ],
+    "formacao": [
+      { "curso": "Design Digital", "instituicao": "PUC-Rio", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "App Saúde",
+        "link": "https://github.com/marianacosta/app-saude",
+        "descricao": "Aplicativo para monitoramento de hábitos de bem-estar."
+      }
+    ],
+    "certificacoes": ["Certificação UX-PM"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Pesquisas de Usuário", "Acessibilidade"]
+  },
+  {
+    "id": 4,
+    "nome": "Gustavo Henrique",
+    "foto": null,
+    "cargo": "Data Analyst",
+    "telefone": "11940022019",
+    "resumo": "Transforma dados em insights acionáveis.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI"],
+    "email": "gustavo.henrique@example.com",
+    "senha": "senha123",
+    "softSkills": ["Análise Crítica", "Comunicação", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "InsightLabs",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-02",
+        "fim": "2024-07",
+        "descricao": "Criação de relatórios e dashboards para áreas de negócio."
+      }
+    ],
+    "formacao": [
+      { "curso": "Estatística", "instituicao": "UFPR", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Pipeline ETL",
+        "link": "https://github.com/gustavohenrique/etl-pipeline",
+        "descricao": "Automação de coleta e limpeza de dados públicos."
+      }
+    ],
+    "certificacoes": ["Microsoft Data Analyst"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Machine Learning", "BI"]
+  },
+  {
+    "id": 5,
+    "nome": "Beatriz Moreira",
+    "foto": null,
+    "cargo": "Product Owner",
+    "telefone": "11943011877",
+    "resumo": "Foco em alinhamento estratégico de produto.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Scrum", "Roadmapping", "Prioritização"],
+    "email": "beatriz.moreira@example.com",
+    "senha": "senha123",
+    "softSkills": ["Liderança", "Comunicação", "Negociação"],
+    "experiencias": [
+      {
+        "empresa": "AgileWorks",
+        "cargo": "Product Owner",
+        "inicio": "2020-09",
+        "fim": "2024-07",
+        "descricao": "Gestão de backlog e alinhamento com stakeholders."
+      }
+    ],
+    "formacao": [
+      { "curso": "Administração", "instituicao": "FGV", "ano": 2019 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Clientes",
+        "link": "https://github.com/beatrizmoreira/portal-clientes",
+        "descricao": "Portal para engajamento e autoatendimento."
+      }
+    ],
+    "certificacoes": ["CSPO"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Gestão de Produto", "Métricas"]
+  },
+  {
+    "id": 6,
+    "nome": "Rafael Silva",
+    "foto": null,
+    "cargo": "DevOps Engineer",
+    "telefone": "11948011234",
+    "resumo": "Automação e confiabilidade em pipelines de entrega contínua.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["Docker", "Kubernetes", "CI/CD"],
+    "email": "rafael.silva@example.com",
+    "senha": "senha123",
+    "softSkills": ["Colaboração", "Resolução de Problemas", "Agilidade"],
+    "experiencias": [
+      {
+        "empresa": "CloudWave",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-04",
+        "fim": "2024-07",
+        "descricao": "Implementação de pipelines e monitoramento de serviços."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia da Computação", "instituicao": "CEFET-MG", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Infra as Code",
+        "link": "https://github.com/rafaelsilva/iac",
+        "descricao": "Provisionamento automatizado de ambientes."
+      }
+    ],
+    "certificacoes": ["CKA"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Observabilidade", "Automação"]
+  },
+  {
+    "id": 7,
+    "nome": "Camila Rezende",
+    "foto": null,
+    "cargo": "QA Engineer",
+    "telefone": "11947033456",
+    "resumo": "Garantia de qualidade com foco em testes automatizados.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Qualidade",
+    "habilidadesTecnicas": ["Cypress", "Selenium", "Postman"],
+    "email": "camila.rezende@example.com",
+    "senha": "senha123",
+    "softSkills": ["Detalhismo", "Comunicação", "Pensamento Crítico"],
+    "experiencias": [
+      {
+        "empresa": "QualityHub",
+        "cargo": "QA Engineer",
+        "inicio": "2021-06",
+        "fim": "2024-07",
+        "descricao": "Automação de testes e definição de padrões de qualidade."
+      }
+    ],
+    "formacao": [
+      { "curso": "Sistemas de Informação", "instituicao": "PUC-RS", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Framework Testes",
+        "link": "https://github.com/camilarezende/test-framework",
+        "descricao": "Base para automação integrada de testes e2e."
+      }
+    ],
+    "certificacoes": ["ISTQB Foundation"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Automação", "Qualidade Contínua"]
+  },
+  {
+    "id": 8,
+    "nome": "Lucas Pereira",
+    "foto": null,
+    "cargo": "Mobile Developer",
+    "telefone": "11949567890",
+    "resumo": "Criação de apps híbridos performáticos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React Native", "Expo", "TypeScript"],
+    "email": "lucas.pereira@example.com",
+    "senha": "senha123",
+    "softSkills": ["Resiliência", "Trabalho em Equipe", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "AppForge",
+        "cargo": "Mobile Developer",
+        "inicio": "2022-02",
+        "fim": "2024-07",
+        "descricao": "Desenvolvimento de apps para iOS e Android."
+      }
+    ],
+    "formacao": [
+      { "curso": "Análise e Desenvolvimento de Sistemas", "instituicao": "Impacta", "ano": 2022 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Fitness Tracker",
+        "link": "https://github.com/lucaspereira/fitness-tracker",
+        "descricao": "App para registro de exercícios e saúde."
+      }
+    ],
+    "certificacoes": ["React Native Specialist"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["Performance Mobile", "UI Nativa"]
+  },
+  {
+    "id": 9,
+    "nome": "Fernanda Lima",
+    "foto": null,
+    "cargo": "UI Designer",
+    "telefone": "11946098765",
+    "resumo": "Criação de interfaces limpas e consistentes.",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Design System", "Illustrator"],
+    "email": "fernanda.lima@example.com",
+    "senha": "senha123",
+    "softSkills": ["Criatividade", "Colaboração", "Detalhismo"],
+    "experiencias": [
+      {
+        "empresa": "PixelArt",
+        "cargo": "UI Designer",
+        "inicio": "2021-03",
+        "fim": "2024-07",
+        "descricao": "Construção e manutenção de design systems corporativos."
+      }
+    ],
+    "formacao": [
+      { "curso": "Design Gráfico", "instituicao": "UFPE", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Design System Interno",
+        "link": "https://github.com/fernandalima/design-system",
+        "descricao": "Componentização visual para múltiplos produtos."
+      }
+    ],
+    "certificacoes": ["Design System Certification"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Acessibilidade", "Design Tokens"]
+  },
+  {
+    "id": 10,
+    "nome": "Thiago Rocha",
+    "foto": null,
+    "cargo": "Full-Stack Developer",
+    "telefone": "11949911223",
+    "resumo": "Atuação ponta a ponta em arquitetura e implementação.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Next.js", "Node.js", "MongoDB"],
+    "email": "thiago.rocha@example.com",
+    "senha": "senha123",
+    "softSkills": ["Autonomia", "Comunicação", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "StackForge",
+        "cargo": "Full-Stack Developer",
+        "inicio": "2021-08",
+        "fim": "2024-07",
+        "descricao": "Desenvolvimento de features end-to-end."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Software", "instituicao": "UNICAMP", "ano": 2023 }
+    ],
+    "projetos": [
+      {
+        "titulo": "E-Commerce Base",
+        "link": "https://github.com/thiagorocha/ecommerce-base",
+        "descricao": "Plataforma modular de comércio eletrônico."
+      }
+    ],
+    "certificacoes": ["Azure Developer Associate"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Arquitetura Limpa", "Escalabilidade"]
+  },
+  {
+    "id": 11,
+    "nome": "Juliana Martins",
+    "foto": null,
+    "cargo": "Data Scientist",
+    "telefone": "11948877665",
+    "resumo": "Modelagem preditiva e análise avançada.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "Pandas", "TensorFlow"],
+    "email": "juliana.martins@example.com",
+    "senha": "senha123",
+    "softSkills": ["Pensamento Analítico", "Aprendizado Contínuo", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "PredictIA",
+        "cargo": "Data Scientist",
+        "inicio": "2022-04",
+        "fim": "2024-07",
+        "descricao": "Desenvolvimento de modelos para previsão de demanda."
+      }
+    ],
+    "formacao": [
+      { "curso": "Matemática Aplicada", "instituicao": "USP", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Modelo Previsão Vendas",
+        "link": "https://github.com/julianamartins/previsao-vendas",
+        "descricao": "Aplicação de regressão e séries temporais."
+      }
+    ],
+    "certificacoes": ["TensorFlow Developer"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["ML Ops", "Visão Computacional"]
+  },
+  {
+    "id": 12,
+    "nome": "André Oliveira",
+    "foto": null,
+    "cargo": "Security Analyst",
+    "telefone": "11947766554",
+    "resumo": "Monitoramento e mitigação de vulnerabilidades.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Segurança",
+    "habilidadesTecnicas": ["OWASP", "SIEM", "Pentest"],
+    "email": "andre.oliveira@example.com",
+    "senha": "senha123",
+    "softSkills": ["Detalhismo", "Pensamento Crítico", "Proatividade"],
+    "experiencias": [
+      {
+        "empresa": "SecureNet",
+        "cargo": "Analista de Segurança",
+        "inicio": "2021-07",
+        "fim": "2024-07",
+        "descricao": "Análise de riscos e testes de invasão internos."
+      }
+    ],
+    "formacao": [
+      { "curso": "Redes de Computadores", "instituicao": "IFCE", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Scanner Vulnerabilidades",
+        "link": "https://github.com/andreoliveira/vuln-scanner",
+        "descricao": "Ferramenta para varredura básica de portas e serviços."
+      }
+    ],
+    "certificacoes": ["CompTIA Security+"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Cybersecurity", "Hardening"]
+  },
+  {
+    "id": 13,
+    "nome": "Patrícia Duarte",
+    "foto": null,
+    "cargo": "Scrum Master",
+    "telefone": "11946655443",
+    "resumo": "Facilitação de times ágeis e remoção de impedimentos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Scrum", "Kanban", "Agile Coaching"],
+    "email": "patricia.duarte@example.com",
+    "senha": "senha123",
+    "softSkills": ["Liderança Servidora", "Comunicação", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "AgileForce",
+        "cargo": "Scrum Master",
+        "inicio": "2020-11",
+        "fim": "2024-07",
+        "descricao": "Suporte a squads e evolução de maturidade ágil."
+      }
+    ],
+    "formacao": [
+      { "curso": "Gestão de Projetos", "instituicao": "Mackenzie", "ano": 2019 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Playbook Ágil",
+        "link": "https://github.com/patriciaduarte/playbook-agil",
+        "descricao": "Documentação de práticas e rituais recomendados."
+      }
+    ],
+    "certificacoes": ["PSM I"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Cultura Ágil", "Métricas de Fluxo"]
+  },
+  {
+    "id": 14,
+    "nome": "Felipe Cardoso",
+    "foto": null,
+    "cargo": "Cloud Architect",
+    "telefone": "11945544332",
+    "resumo": "Arquiteturas escaláveis em nuvem pública.",
+    "localizacao": "Brasília/DF",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["AWS", "Terraform", "Kubernetes"],
+    "email": "felipe.cardoso@example.com",
+    "senha": "senha123",
+    "softSkills": ["Planejamento", "Comunicação", "Resolução de Problemas"],
+    "experiencias": [
+      {
+        "empresa": "SkyScale",
+        "cargo": "Cloud Architect",
+        "inicio": "2021-01",
+        "fim": "2024-07",
+        "descricao": "Definição de arquiteturas resilientes e custo-eficientes."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia Elétrica", "instituicao": "UnB", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Infra Multi-Region",
+        "link": "https://github.com/felipecardoso/multi-region",
+        "descricao": "Modelo de referência para alta disponibilidade."
+      }
+    ],
+    "certificacoes": ["AWS Solutions Architect"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["FinOps", "Resiliência"]
+  },
+  {
+    "id": 15,
+    "nome": "Sofia Nogueira",
+    "foto": null,
+    "cargo": "Marketing Digital",
+    "telefone": "11944433221",
+    "resumo": "Estratégias de conteúdo e aquisição orgânica.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["SEO", "Google Analytics", "Copywriting"],
+    "email": "sofia.nogueira@example.com",
+    "senha": "senha123",
+    "softSkills": ["Comunicação", "Criatividade", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "GrowMedia",
+        "cargo": "Analista de Marketing",
+        "inicio": "2022-05",
+        "fim": "2024-07",
+        "descricao": "Planejamento e execução de campanhas digitais."
+      }
+    ],
+    "formacao": [
+      { "curso": "Publicidade e Propaganda", "instituicao": "ESPM", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Estratégia SEO Blog",
+        "link": "https://github.com/sofianogueira/seo-blog",
+        "descricao": "Plano de otimização de conteúdo e estrutura."
+      }
+    ],
+    "certificacoes": ["Google Analytics IQ"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Growth", "Automação Marketing"]
+  },
+  {
+    "id": 16,
+    "nome": "João Barros",
+    "foto": null,
+    "cargo": "Desenvolvedor Back-End",
+    "telefone": "11943322110",
+    "resumo": "APIs robustas em ambientes de alta carga.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Go", "PostgreSQL", "Docker"],
+    "email": "joao.barros@example.com",
+    "senha": "senha123",
+    "softSkills": ["Foco", "Resolução de Problemas", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "FastAPI Corp",
+        "cargo": "Back-End Developer",
+        "inicio": "2022-03",
+        "fim": "2024-07",
+        "descricao": "Implementação de serviços de baixa latência."
+      }
+    ],
+    "formacao": [
+      { "curso": "Ciência da Computação", "instituicao": "UFABC", "ano": 2023 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Service Auth",
+        "link": "https://github.com/joaobarros/service-auth",
+        "descricao": "Serviço de autenticação JWT escalável."
+      }
+    ],
+    "certificacoes": ["Linux Foundation Go"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Alta Performance", "Arquitetura"]
+  },
+  {
+    "id": 17,
+    "nome": "Letícia Prado",
+    "foto": null,
+    "cargo": "Analista de Dados",
+    "telefone": "11942211009",
+    "resumo": "Dashboards para suporte à decisão.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": ["SQL", "Metabase", "Excel"],
+    "email": "leticia.prado@example.com",
+    "senha": "senha123",
+    "softSkills": ["Comunicação", "Organização", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "BizData",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-09",
+        "fim": "2024-07",
+        "descricao": "Criação de relatórios e monitoramento de KPIs."
+      }
+    ],
+    "formacao": [
+      { "curso": "Administração", "instituicao": "PUC-RS", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Painel Vendas",
+        "link": "https://github.com/leticiaprado/painel-vendas",
+        "descricao": "Dashboard para acompanhamento diário de vendas."
+      }
+    ],
+    "certificacoes": ["Power BI Data Analyst"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["Data Viz", "Governança"]
+  },
+  {
+    "id": 18,
+    "nome": "Bruno Teixeira",
+    "foto": null,
+    "cargo": "Desenvolvedor Full-Stack",
+    "telefone": "11941100998",
+    "resumo": "Integrações e soluções web completas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Laravel", "Vue.js", "MySQL"],
+    "email": "bruno.teixeira@example.com",
+    "senha": "senha123",
+    "softSkills": ["Autonomia", "Responsabilidade", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "WebCore",
+        "cargo": "Full-Stack Developer",
+        "inicio": "2020-10",
+        "fim": "2024-07",
+        "descricao": "Manutenção e evolução de plataforma SaaS."
+      }
+    ],
+    "formacao": [
+      { "curso": "Sistemas de Informação", "instituicao": "Estácio", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Educacional",
+        "link": "https://github.com/brunoteixeira/portal-edu",
+        "descricao": "Sistema de cursos e trilhas de aprendizado."
+      }
+    ],
+    "certificacoes": ["PHP Developer"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["APIs", "Padrões de Projeto"]
+  },
+  {
+    "id": 19,
+    "nome": "Carolina Farias",
+    "foto": null,
+    "cargo": "UX Researcher",
+    "telefone": "11940099887",
+    "resumo": "Pesquisa e validação centrada no usuário.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Entrevistas", "Mapas de Jornada", "Personas"],
+    "email": "carolina.farias@example.com",
+    "senha": "senha123",
+    "softSkills": ["Empatia", "Comunicação", "Pensamento Analítico"],
+    "experiencias": [
+      {
+        "empresa": "UserSense",
+        "cargo": "UX Researcher",
+        "inicio": "2022-06",
+        "fim": "2024-07",
+        "descricao": "Planejamento e execução de estudos qualitativos."
+      }
+    ],
+    "formacao": [
+      { "curso": "Psicologia", "instituicao": "USP", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Estudo Engajamento App",
+        "link": "https://github.com/carolinafarias/estudo-engajamento",
+        "descricao": "Relatório com insights de uso e retenção."
+      }
+    ],
+    "certificacoes": ["UX-PM Nível 2"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Pesquisa Quantitativa", "Acessibilidade"]
+  },
+  {
+    "id": 20,
+    "nome": "Eduardo Mendes",
+    "foto": null,
+    "cargo": "Engenheiro de Testes",
+    "telefone": "11949988776",
+    "resumo": "Automação de testes e QA estratégico.",
+    "localizacao": "São Paulo/SP",
+    "area": "Qualidade",
+    "habilidadesTecnicas": ["JUnit", "Selenium", "Postman"],
+    "email": "eduardo.mendes@example.com",
+    "senha": "senha123",
+    "softSkills": ["Detalhismo", "Comunicação", "Resolução de Problemas"],
+    "experiencias": [
+      {
+        "empresa": "TestLab",
+        "cargo": "Engenheiro de Testes",
+        "inicio": "2021-02",
+        "fim": "2024-07",
+        "descricao": "Criação de suites de testes automatizados."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Software", "instituicao": "FIAP", "ano": 2022 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Lib Test Utils",
+        "link": "https://github.com/eduardomendes/test-utils",
+        "descricao": "Utilitários para padronização de testes."
+      }
+    ],
+    "certificacoes": ["ISTQB Advanced"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Testes de Performance", "Qualidade Contínua"]
+  },
+  {
+    "id": 21,
+    "nome": "Fabiana Rocha",
+    "foto": null,
+    "cargo": "Product Designer",
+    "telefone": "11948877654",
+    "resumo": "Design integrado à estratégia de produto.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Design System", "User Flows"],
+    "email": "fabiana.rocha@example.com",
+    "senha": "senha123",
+    "softSkills": ["Colaboração", "Comunicação", "Pensamento Crítico"],
+    "experiencias": [
+      {
+        "empresa": "VisionLab",
+        "cargo": "Product Designer",
+        "inicio": "2021-10",
+        "fim": "2024-07",
+        "descricao": "Criação de fluxos e componentes reutilizáveis."
+      }
+    ],
+    "formacao": [
+      { "curso": "Design de Produto", "instituicao": "UFSC", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Component Library",
+        "link": "https://github.com/fabianarocha/component-library",
+        "descricao": "Biblioteca de componentes acessíveis."
+      }
+    ],
+    "certificacoes": ["UX Design Certificate"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Acessibilidade", "Design Escalável"]
+  },
+  {
+    "id": 22,
+    "nome": "Gabriel Ramos",
+    "foto": null,
+    "cargo": "Engenheiro de Dados",
+    "telefone": "11947766543",
+    "resumo": "Pipelines distribuídos e modelagem otimizada.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Spark", "Airflow", "Python"],
+    "email": "gabriel.ramos@example.com",
+    "senha": "senha123",
+    "softSkills": ["Resolução de Problemas", "Autonomia", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "DataScale",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2021-05",
+        "fim": "2024-07",
+        "descricao": "Construção de pipelines e otimização de queries."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Computação", "instituicao": "UFSCAR", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Orquestração ETL",
+        "link": "https://github.com/gabrielramos/orquestracao-etl",
+        "descricao": "Pipeline com monitoramento e retries."
+      }
+    ],
+    "certificacoes": ["Databricks Data Engineer"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Data Lakehouse", "Performance"]
+  },
+  {
+    "id": 23,
+    "nome": "Helena Souza",
+    "foto": null,
+    "cargo": "Analista de Produto",
+    "telefone": "11946655432",
+    "resumo": "Análise de métricas e descoberta contínua.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["SQL", "Métricas de Produto", "User Stories"],
+    "email": "helena.souza@example.com",
+    "senha": "senha123",
+    "softSkills": ["Comunicação", "Pensamento Analítico", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "ProdLab",
+        "cargo": "Analista de Produto",
+        "inicio": "2022-01",
+        "fim": "2024-07",
+        "descricao": "Monitoramento de KPIs e testes de hipóteses."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Produção", "instituicao": "UFSC", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Métricas Funil",
+        "link": "https://github.com/helenasouza/metricas-funil",
+        "descricao": "Relatório de conversão por etapa."
+      }
+    ],
+    "certificacoes": ["Product Analytics"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Descoberta Contínua", "Growth"]
+  },
+  {
+    "id": 24,
+    "nome": "Igor Castro",
+    "foto": null,
+    "cargo": "DevOps Engineer",
+    "telefone": "11945544321",
+    "resumo": "Infra como código e observabilidade.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["Ansible", "Prometheus", "Grafana"],
+    "email": "igor.castro@example.com",
+    "senha": "senha123",
+    "softSkills": ["Colaboração", "Proatividade", "Resolução de Problemas"],
+    "experiencias": [
+      {
+        "empresa": "InfraPlus",
+        "cargo": "DevOps Engineer",
+        "inicio": "2020-12",
+        "fim": "2024-07",
+        "descricao": "Automação e monitoramento de serviços críticos."
+      }
+    ],
+    "formacao": [
+      { "curso": "Redes de Computadores", "instituicao": "Estácio", "ano": 2019 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Stack Observabilidade",
+        "link": "https://github.com/igorcastro/observabilidade",
+        "descricao": "Configuração de métricas e alertas padronizados."
+      }
+    ],
+    "certificacoes": ["DevOps Foundation"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["SRE", "Automação"]
+  },
+  {
+    "id": 25,
+    "nome": "Jéssica Andrade",
+    "foto": null,
+    "cargo": "UI/UX Designer",
+    "telefone": "11944433210",
+    "resumo": "Equilíbrio entre estética e usabilidade.",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Wireframes", "Prototipagem"],
+    "email": "jessica.andrade@example.com",
+    "senha": "senha123",
+    "softSkills": ["Criatividade", "Empatia", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "DesignFlow",
+        "cargo": "UI/UX Designer",
+        "inicio": "2021-04",
+        "fim": "2024-07",
+        "descricao": "Concepção de interfaces centradas no usuário."
+      }
+    ],
+    "formacao": [
+      { "curso": "Design de Interação", "instituicao": "UNIFACS", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Redesign Portal",
+        "link": "https://github.com/jessicaandrade/redesign-portal",
+        "descricao": "Melhorias de usabilidade e acessibilidade."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["Acessibilidade", "Design Inclusivo"]
+  },
+  {
+    "id": 26,
+    "nome": "Kaique Santos",
+    "foto": null,
+    "cargo": "Desenvolvedor Front-End",
+    "telefone": "11943322109",
+    "resumo": "Interfaces performáticas e responsivas.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "TypeScript", "Styled Components"],
+    "email": "kaique.santos@example.com",
+    "senha": "senha123",
+    "softSkills": ["Colaboração", "Comunicação", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "FrontEdge",
+        "cargo": "Front-End Developer",
+        "inicio": "2022-02",
+        "fim": "2024-07",
+        "descricao": "Desenvolvimento de componentes reutilizáveis."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Software", "instituicao": "FIAP", "ano": 2023 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Lib UI React",
+        "link": "https://github.com/kaiquesantos/lib-ui",
+        "descricao": "Pacote de componentes acessíveis."
+      }
+    ],
+    "certificacoes": ["React Advanced"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["Design System", "Acessibilidade"]
+  },
+  {
+    "id": 27,
+    "nome": "Larissa Monteiro",
+    "foto": null,
+    "cargo": "Analista de Marketing",
+    "telefone": "11942211008",
+    "resumo": "Campanhas orientadas a dados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Analytics", "Copywriting", "SEO"],
+    "email": "larissa.monteiro@example.com",
+    "senha": "senha123",
+    "softSkills": ["Comunicação", "Criatividade", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "MarketFlow",
+        "cargo": "Analista de Marketing",
+        "inicio": "2022-07",
+        "fim": "2024-07",
+        "descricao": "Análise de funil e otimização de campanhas."
+      }
+    ],
+    "formacao": [
+      { "curso": "Marketing", "instituicao": "UNIP", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Funil Conversão",
+        "link": "https://github.com/larissamonteiro/funil",
+        "descricao": "Relatório mensal de conversão."
+      }
+    ],
+    "certificacoes": ["Inbound Marketing"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["Growth", "Automação"]
+  },
+  {
+    "id": 28,
+    "nome": "Marcelo Freitas",
+    "foto": null,
+    "cargo": "Engenheiro de Software",
+    "telefone": "11941100997",
+    "resumo": "Soluções escaláveis e manuteníveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Java", "Spring Boot", "Kafka"],
+    "email": "marcelo.freitas@example.com",
+    "senha": "senha123",
+    "softSkills": ["Foco", "Resolução de Problemas", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "CoreScale",
+        "cargo": "Software Engineer",
+        "inicio": "2020-09",
+        "fim": "2024-07",
+        "descricao": "Integrações e serviços distribuídos."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia da Computação", "instituicao": "UNIP", "ano": 2019 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Service Mensageria",
+        "link": "https://github.com/marcelofreitas/mensageria",
+        "descricao": "Serviço com consumo assíncrono."
+      }
+    ],
+    "certificacoes": ["Oracle Java SE"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Arquitetura Distribuída", "DDD"]
+  },
+  {
+    "id": 29,
+    "nome": "Natália Pires",
+    "foto": null,
+    "cargo": "Product Owner",
+    "telefone": "11940099876",
+    "resumo": "Gestão de backlog orientada a valor.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Roadmap", "User Stories", "Prioritização"],
+    "email": "natalia.pires@example.com",
+    "senha": "senha123",
+    "softSkills": ["Liderança", "Comunicação", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "ValueDriven",
+        "cargo": "Product Owner",
+        "inicio": "2021-03",
+        "fim": "2024-07",
+        "descricao": "Priorização e alinhamento estratégico."
+      }
+    ],
+    "formacao": [
+      { "curso": "Administração", "instituicao": "FGV", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal B2B",
+        "link": "https://github.com/nataliapires/portal-b2b",
+        "descricao": "Ferramenta de relacionamento empresarial."
+      }
+    ],
+    "certificacoes": ["CSPO"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Discovery", "Métricas"]
+  },
+  {
+    "id": 30,
+    "nome": "Otávio Luz",
+    "foto": null,
+    "cargo": "Desenvolvedor Mobile",
+    "telefone": "11949988775",
+    "resumo": "Experiências nativas cross-platform.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Flutter", "Dart", "Firebase"],
+    "email": "otavio.luz@example.com",
+    "senha": "senha123",
+    "softSkills": ["Organização", "Colaboração", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "AppCore",
+        "cargo": "Mobile Developer",
+        "inicio": "2022-01",
+        "fim": "2024-07",
+        "descricao": "Desenvolvimento de aplicativos multiplataforma."
+      }
+    ],
+    "formacao": [
+      { "curso": "Sistemas para Internet", "instituicao": "FIAP", "ano": 2023 }
+    ],
+    "projetos": [
+      {
+        "titulo": "App Delivery",
+        "link": "https://github.com/otavioluz/app-delivery",
+        "descricao": "Aplicativo para pedidos e acompanhamento."
+      }
+    ],
+    "certificacoes": ["Flutter Developer"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["UI Animada", "Integrações"]
+  },
+  {
+    "id": 31,
+    "nome": "Paula Rezende",
+    "foto": null,
+    "cargo": "Analista de Suporte",
+    "telefone": "11948877653",
+    "resumo": "Atendimento técnico e melhoria contínua.",
+    "localizacao": "São Paulo/SP",
+    "area": "Suporte",
+    "habilidadesTecnicas": ["SQL Básico", "Zendesk", "Documentação"],
+    "email": "paula.rezende@example.com",
+    "senha": "senha123",
+    "softSkills": ["Empatia", "Comunicação", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "HelpDeskPro",
+        "cargo": "Analista de Suporte",
+        "inicio": "2021-08",
+        "fim": "2024-07",
+        "descricao": "Resolução de tickets e documentação de soluções."
+      }
+    ],
+    "formacao": [
+      { "curso": "Gestão de TI", "instituicao": "SENAC", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Base Conhecimento",
+        "link": "https://github.com/paularezende/base-conhecimento",
+        "descricao": "Centralização de soluções recorrentes."
+      }
+    ],
+    "certificacoes": ["ITIL Foundation"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["Suporte Nível 2", "Documentação"]
+  },
+  {
+    "id": 32,
+    "nome": "Ricardo Menezes",
+    "foto": null,
+    "cargo": "Engenheiro de Software",
+    "telefone": "11947766532",
+    "resumo": "Backend robusto em arquiteturas modulares.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["C#", ".NET", "SQL Server"],
+    "email": "ricardo.menezes@example.com",
+    "senha": "senha123",
+    "softSkills": ["Comunicação", "Resolução de Problemas", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "CoreSystems",
+        "cargo": "Software Engineer",
+        "inicio": "2020-06",
+        "fim": "2024-07",
+        "descricao": "Implementação de módulos financeiros."
+      }
+    ],
+    "formacao": [
+      { "curso": "Ciência da Computação", "instituicao": "PUC-SP", "ano": 2019 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Modulo Fatura",
+        "link": "https://github.com/ricardomenezes/mod-fatura",
+        "descricao": "Geração e controle de faturas."
+      }
+    ],
+    "certificacoes": [".NET Developer"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Arquitetura Limpa", "DDD"]
+  },
+  {
+    "id": 33,
+    "nome": "Sabrina Teles",
+    "foto": null,
+    "cargo": "Designer de Produto",
+    "telefone": "11946655421",
+    "resumo": "Iteração contínua baseada em feedback.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "User Flows", "Prototipagem"],
+    "email": "sabrina.teles@example.com",
+    "senha": "senha123",
+    "softSkills": ["Empatia", "Comunicação", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "FlowDesign",
+        "cargo": "Designer de Produto",
+        "inicio": "2021-01",
+        "fim": "2024-07",
+        "descricao": "Concepção de fluxos e interfaces web."
+      }
+    ],
+    "formacao": [
+      { "curso": "Design de Interface", "instituicao": "UFPR", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Financeiro",
+        "link": "https://github.com/sabrinateles/dash-financeiro",
+        "descricao": "Visualização intuitiva de KPIs."
+      }
+    ],
+    "certificacoes": ["UI Advanced"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["Acessibilidade", "Design Data-Driven"]
+  },
+  {
+    "id": 34,
+    "nome": "Tales Moura",
+    "foto": null,
+    "cargo": "Engenheiro DevOps",
+    "telefone": "11945544311",
+    "resumo": "Confiabilidade e automação de deploys.",
+    "localizacao": "São Paulo/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["Kubernetes", "Helm", "CI/CD"],
+    "email": "tales.moura@example.com",
+    "senha": "senha123",
+    "softSkills": ["Proatividade", "Colaboração", "Resolução de Problemas"],
+    "experiencias": [
+      {
+        "empresa": "DeployMax",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-03",
+        "fim": "2024-07",
+        "descricao": "Pipeline e automação de escalonamento."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Software", "instituicao": "FIAP", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Helm Charts",
+        "link": "https://github.com/talesmoura/helm-charts",
+        "descricao": "Charts reutilizáveis de serviços internos."
+      }
+    ],
+    "certificacoes": ["CKAD"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["SRE", "Automação"]
+  },
+  {
+    "id": 35,
+    "nome": "Ursula Braga",
+    "foto": null,
+    "cargo": "Analista de Dados",
+    "telefone": "11944433209",
+    "resumo": "Estruturação de métricas e relatórios executivos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Power BI", "SQL", "Excel"],
+    "email": "ursula.braga@example.com",
+    "senha": "senha123",
+    "softSkills": ["Organização", "Comunicação", "Pensamento Analítico"],
+    "experiencias": [
+      {
+        "empresa": "DataHub",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-05",
+        "fim": "2024-07",
+        "descricao": "Modelagem de dashboards gerenciais."
+      }
+    ],
+    "formacao": [
+      { "curso": "Administração", "instituicao": "UNIP", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Financeiro",
+        "link": "https://github.com/ursulabraga/dashboard-financeiro",
+        "descricao": "Visualização de receitas e custos."
+      }
+    ],
+    "certificacoes": ["Power BI Analyst"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["BI", "Automação Relatórios"]
+  },
+  {
+    "id": 36,
+    "nome": "Victor Paiva",
+    "foto": null,
+    "cargo": "Desenvolvedor Back-End",
+    "telefone": "11943322108",
+    "resumo": "Serviços escaláveis e integrações externas.",
+    "localizacao": "Sorocaba/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "Redis", "PostgreSQL"],
+    "email": "victor.paiva@example.com",
+    "senha": "senha123",
+    "softSkills": ["Resolução de Problemas", "Colaboração", "Foco"],
+    "experiencias": [
+      {
+        "empresa": "ScaleAPI",
+        "cargo": "Back-End Developer",
+        "inicio": "2021-09",
+        "fim": "2024-07",
+        "descricao": "Desenvolvimento de integrações e caching."
+      }
+    ],
+    "formacao": [
+      { "curso": "Sistemas de Informação", "instituicao": "UNISO", "ano": 2022 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Cache Layer",
+        "link": "https://github.com/victorpaiva/cache-layer",
+        "descricao": "Abstração para caching distribuído."
+      }
+    ],
+    "certificacoes": ["Node.js Professional"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["Performance", "Arquitetura"]
+  },
+  {
+    "id": 37,
+    "nome": "Wesley Araujo",
+    "foto": null,
+    "cargo": "Engenheiro de Dados",
+    "telefone": "11942211007",
+    "resumo": "Pipelines modernos orientados a eventos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Kafka", "Spark", "Python"],
+    "email": "wesley.araujo@example.com",
+    "senha": "senha123",
+    "softSkills": ["Colaboração", "Aprendizado", "Resolução de Problemas"],
+    "experiencias": [
+      {
+        "empresa": "StreamData",
+        "cargo": "Data Engineer",
+        "inicio": "2022-01",
+        "fim": "2024-07",
+        "descricao": "Ingestão e processamento em tempo real."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Computação", "instituicao": "UNINOVE", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Pipeline Streaming",
+        "link": "https://github.com/wesleyaraujo/pipeline-streaming",
+        "descricao": "Processamento de eventos em fluxo."
+      }
+    ],
+    "certificacoes": ["Kafka Fundamentals"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Data Streaming", "Data Lakehouse"]
+  },
+  {
+    "id": 38,
+    "nome": "Xavier Lopes",
+    "foto": null,
+    "cargo": "Desenvolvedor Front-End",
+    "telefone": "11941100996",
+    "resumo": "Componentização e performance web.",
+    "localizacao": "Niterói/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Next.js", "TailwindCSS"],
+    "email": "xavier.lopes@example.com",
+    "senha": "senha123",
+    "softSkills": ["Comunicação", "Colaboração", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "WebScale",
+        "cargo": "Front-End Developer",
+        "inicio": "2021-04",
+        "fim": "2024-07",
+        "descricao": "Criação de componentes performáticos."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Software", "instituicao": "UFF", "ano": 2022 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Boilerplate Next",
+        "link": "https://github.com/xavierlopes/next-boilerplate",
+        "descricao": "Estrutura inicial otimizada."
+      }
+    ],
+    "certificacoes": ["Frontend Performance"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["SSG", "Acessibilidade"]
+  },
+  {
+    "id": 39,
+    "nome": "Yasmin Ferreira",
+    "foto": null,
+    "cargo": "Data Analyst",
+    "telefone": "11940099865",
+    "resumo": "Análises exploratórias e storytelling.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "Tableau", "SQL"],
+    "email": "yasmin.ferreira@example.com",
+    "senha": "senha123",
+    "softSkills": ["Comunicação", "Empatia", "Pensamento Analítico"],
+    "experiencias": [
+      {
+        "empresa": "InsightPro",
+        "cargo": "Data Analyst",
+        "inicio": "2022-03",
+        "fim": "2024-07",
+        "descricao": "Criação de dashboards e análises ad-hoc."
+      }
+    ],
+    "formacao": [
+      { "curso": "Administração", "instituicao": "UNESP", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Análise Churn",
+        "link": "https://github.com/yasminferreira/analise-churn",
+        "descricao": "Identificação de padrões de evasão."
+      }
+    ],
+    "certificacoes": ["Tableau Analyst"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["Storytelling", "Data Viz"]
+  },
+  {
+    "id": 40,
+    "nome": "Zilda Correia",
+    "foto": null,
+    "cargo": "UX Designer",
+    "telefone": "11949988764",
+    "resumo": "Experiências inclusivas e acessíveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Acessibilidade", "Prototipagem"],
+    "email": "zilda.correia@example.com",
+    "senha": "senha123",
+    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "InclusiveTech",
+        "cargo": "UX Designer",
+        "inicio": "2021-07",
+        "fim": "2024-07",
+        "descricao": "Design com foco em acessibilidade WCAG."
+      }
+    ],
+    "formacao": [
+      { "curso": "Design de Interface", "instituicao": "SENAC", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Guia Acessibilidade",
+        "link": "https://github.com/zildacorreia/guia-acessibilidade",
+        "descricao": "Boas práticas de componentes acessíveis."
+      }
+    ],
+    "certificacoes": ["A11y Fundamentals"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Inclusão Digital", "Design Ético"]
+  },
+  {
+    "id": 41,
+    "nome": "Alessandro Ribeiro",
+    "foto": null,
+    "cargo": "Engenheiro de Software",
+    "telefone": "11948877642",
+    "resumo": "Foco em código limpo e manutenção.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Python", "FastAPI", "PostgreSQL"],
+    "email": "alessandro.ribeiro@example.com",
+    "senha": "senha123",
+    "softSkills": ["Foco", "Colaboração", "Resolução de Problemas"],
+    "experiencias": [
+      {
+        "empresa": "APIWorks",
+        "cargo": "Software Engineer",
+        "inicio": "2020-11",
+        "fim": "2024-07",
+        "descricao": "Desenvolvimento de microserviços e refatorações."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Computação", "instituicao": "Mackenzie", "ano": 2019 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Service Auth",
+        "link": "https://github.com/alessandroribeiro/service-auth",
+        "descricao": "Serviço de autenticação com OAuth2."
+      }
+    ],
+    "certificacoes": ["Python Professional"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Arquitetura Limpa", "Observabilidade"]
+  },
+  {
+    "id": 42,
+    "nome": "Bianca Leal",
+    "foto": null,
+    "cargo": "Analista de Produto",
+    "telefone": "11947766531",
+    "resumo": "Métricas e foco em retenção.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["SQL", "Mixpanel", "Roadmap"],
+    "email": "bianca.leal@example.com",
+    "senha": "senha123",
+    "softSkills": ["Comunicação", "Empatia", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "RetentionLab",
+        "cargo": "Analista de Produto",
+        "inicio": "2022-02",
+        "fim": "2024-07",
+        "descricao": "Análise de coortes e retenção."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Produção", "instituicao": "USP", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Relatório Coortes",
+        "link": "https://github.com/biancaleal/relatorio-coortes",
+        "descricao": "Visualização de retenção por período."
+      }
+    ],
+    "certificacoes": ["Product Analytics"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Retenção", "Growth"]
+  },
+  {
+    "id": 43,
+    "nome": "Caio Antunes",
+    "foto": null,
+    "cargo": "Desenvolvedor Full-Stack",
+    "telefone": "11946655420",
+    "resumo": "Entrega de soluções completas escaláveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Next.js", "Node.js", "PostgreSQL"],
+    "email": "caio.antunes@example.com",
+    "senha": "senha123",
+    "softSkills": ["Colaboração", "Foco", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "FullStackLab",
+        "cargo": "Full-Stack Developer",
+        "inicio": "2021-08",
+        "fim": "2024-07",
+        "descricao": "Desenvolvimento de features end-to-end."
+      }
+    ],
+    "formacao": [
+      { "curso": "Sistemas de Informação", "instituicao": "PUC-SP", "ano": 2022 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Cursos",
+        "link": "https://github.com/caioantunes/plataforma-cursos",
+        "descricao": "Sistema de aulas e progresso."
+      }
+    ],
+    "certificacoes": ["JavaScript Advanced"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Escalabilidade", "Boas Práticas"]
+  },
+  {
+    "id": 44,
+    "nome": "Daniele Santana",
+    "foto": null,
+    "cargo": "UX Researcher",
+    "telefone": "11945544310",
+    "resumo": "Validação contínua de hipóteses de produto.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Pesquisa Qualitativa", "Survey", "Mapas"],
+    "email": "daniele.santana@example.com",
+    "senha": "senha123",
+    "softSkills": ["Empatia", "Comunicação", "Pensamento Analítico"],
+    "experiencias": [
+      {
+        "empresa": "UserLab",
+        "cargo": "UX Researcher",
+        "inicio": "2022-03",
+        "fim": "2024-07",
+        "descricao": "Execução de entrevistas e testes de usabilidade."
+      }
+    ],
+    "formacao": [
+      { "curso": "Psicologia", "instituicao": "PUC-SP", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Relatório Usabilidade",
+        "link": "https://github.com/daniSantana/relatorio-usabilidade",
+        "descricao": "Insights e recomendações."
+      }
+    ],
+    "certificacoes": ["UX-PM"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Pesquisa Quantitativa", "Acessibilidade"]
+  },
+  {
+    "id": 45,
+    "nome": "Erick Gomes",
+    "foto": null,
+    "cargo": "Engenheiro de Software",
+    "telefone": "11944433208",
+    "resumo": "Código limpo e testes automatizados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Ruby", "Rails", "PostgreSQL"],
+    "email": "erick.gomes@example.com",
+    "senha": "senha123",
+    "softSkills": ["Foco", "Colaboração", "Resolução de Problemas"],
+    "experiencias": [
+      {
+        "empresa": "AppRails",
+        "cargo": "Software Engineer",
+        "inicio": "2021-02",
+        "fim": "2024-07",
+        "descricao": "Manutenção e evolução de APIs."
+      }
+    ],
+    "formacao": [
+      { "curso": "Sistemas de Informação", "instituicao": "UNIP", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema Faturas",
+        "link": "https://github.com/erickgomes/faturas",
+        "descricao": "Gestão de cobrança recorrente."
+      }
+    ],
+    "certificacoes": ["Ruby Developer"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["Refatoração", "Boas Práticas"]
+  },
+  {
+    "id": 46,
+    "nome": "Flávia Torres",
+    "foto": null,
+    "cargo": "Analista de Dados",
+    "telefone": "11943322107",
+    "resumo": "KPI e relatórios de desempenho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Excel", "SQL", "Power BI"],
+    "email": "flavia.torres@example.com",
+    "senha": "senha123",
+    "softSkills": ["Organização", "Comunicação", "Detalhismo"],
+    "experiencias": [
+      {
+        "empresa": "MetricHub",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-01",
+        "fim": "2024-07",
+        "descricao": "Geração de relatórios executivos."
+      }
+    ],
+    "formacao": [
+      { "curso": "Administração", "instituicao": "Mackenzie", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Relatório Financeiro",
+        "link": "https://github.com/flaviatorres/relatorio-financeiro",
+        "descricao": "Análise de receitas e margens."
+      }
+    ],
+    "certificacoes": ["Data Analysis Essentials"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["BI", "Automação"]
+  },
+  {
+    "id": 47,
+    "nome": "Gisele Moraes",
+    "foto": null,
+    "cargo": "Product Designer",
+    "telefone": "11942211006",
+    "resumo": "Design centrado em dados e métricas.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Design System", "Prototipagem"],
+    "email": "gisele.moraes@example.com",
+    "senha": "senha123",
+    "softSkills": ["Empatia", "Criatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "DesignOps",
+        "cargo": "Product Designer",
+        "inicio": "2021-06",
+        "fim": "2024-07",
+        "descricao": "Escala de design system multi-produto."
+      }
+    ],
+    "formacao": [
+      { "curso": "Design de Produto", "instituicao": "PUC-SP", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "System Tokens",
+        "link": "https://github.com/giselemoraes/system-tokens",
+        "descricao": "Estrutura de tokens escalável."
+      }
+    ],
+    "certificacoes": ["Design System Specialist"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Escalabilidade", "Acessibilidade"]
+  },
+  {
+    "id": 48,
+    "nome": "Henrique Pires",
+    "foto": null,
+    "cargo": "Desenvolvedor Back-End",
+    "telefone": "11941100995",
+    "resumo": "Integrações e performance de serviços.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "RabbitMQ", "MongoDB"],
+    "email": "henrique.pires@example.com",
+    "senha": "senha123",
+    "softSkills": ["Foco", "Resolução de Problemas", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "QueueLab",
+        "cargo": "Back-End Developer",
+        "inicio": "2022-04",
+        "fim": "2024-07",
+        "descricao": "Serviços assíncronos e filas."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Software", "instituicao": "FIAP", "ano": 2023 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Fila Processamento",
+        "link": "https://github.com/henriquepires/fila-processamento",
+        "descricao": "Worker para processamento em lote."
+      }
+    ],
+    "certificacoes": ["Node Advanced"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["Mensageria", "Escalabilidade"]
+  },
+  {
+    "id": 49,
+    "nome": "Isabela Cunha",
+    "foto": null,
+    "cargo": "UX Designer",
+    "telefone": "11940099854",
+    "resumo": "Design centrado em acessibilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["WCAG", "Figma", "Prototipagem"],
+    "email": "isabela.cunha@example.com",
+    "senha": "senha123",
+    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "AccessLab",
+        "cargo": "UX Designer",
+        "inicio": "2021-09",
+        "fim": "2024-07",
+        "descricao": "Criação de interfaces inclusivas."
+      }
+    ],
+    "formacao": [
+      { "curso": "Design UX", "instituicao": "SENAC", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Guia Inclusão",
+        "link": "https://github.com/isabelacunha/guia-inclusao",
+        "descricao": "Referências de acessibilidade."
+      }
+    ],
+    "certificacoes": ["Acessibilidade Web"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Inclusão Digital", "Design Ético"]
+  },
+  {
+    "id": 50,
+    "nome": "Joana Marques",
+    "foto": null,
+    "cargo": "Analista de Produto",
+    "telefone": "11949988753",
+    "resumo": "Foco em métricas e evolução de módulos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["SQL", "Roadmap", "User Stories"],
+    "email": "joana.marques@example.com",
+    "senha": "senha123",
+    "softSkills": ["Comunicação", "Empatia", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "ProdScale",
+        "cargo": "Analista de Produto",
+        "inicio": "2022-01",
+        "fim": "2024-07",
+        "descricao": "Definição de métricas e backlog."
+      }
+    ],
+    "formacao": [
+      { "curso": "Administração", "instituicao": "FGV", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Módulo Assinaturas",
+        "link": "https://github.com/joanamarques/modulo-assinaturas",
+        "descricao": "Gestão de planos e upgrades."
+      }
+    ],
+    "certificacoes": ["Product Metrics"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Métricas", "Retenção"]
+  },
+  {
+    "id": 51,
+    "nome": "Karen Siqueira",
+    "foto": null,
+    "cargo": "Product Designer",
+    "telefone": "11948877641",
+    "resumo": "Design e prototipagem centrados no usuário.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "User Flow", "Design System"],
+    "email": "karen.siqueira@example.com",
+    "senha": "senha123",
+    "softSkills": ["Empatia", "Colaboração", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "ProtoLab",
+        "cargo": "Product Designer",
+        "inicio": "2021-05",
+        "fim": "2024-07",
+        "descricao": "Prototipagem e validação de jornadas."
+      }
+    ],
+    "formacao": [
+      { "curso": "Design Digital", "instituicao": "PUC-SP", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Design Tokens",
+        "link": "https://github.com/karensiqueira/design-tokens",
+        "descricao": "Padronização de estilo multi-plataforma."
+      }
+    ],
+    "certificacoes": ["Design System Advanced"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Acessibilidade", "Escalabilidade"]
+  },
+  {
+    "id": 52,
+    "nome": "Leandro Matos",
+    "foto": null,
+    "cargo": "Engenheiro de Software",
+    "telefone": "11947766530",
+    "resumo": "Integrações e arquitetura modular.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Java", "Spring", "RabbitMQ"],
+    "email": "leandro.matos@example.com",
+    "senha": "senha123",
+    "softSkills": ["Resolução de Problemas", "Foco", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "EnterpriseApps",
+        "cargo": "Software Engineer",
+        "inicio": "2020-10",
+        "fim": "2024-07",
+        "descricao": "Desenvolvimento de módulos enterprise."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia da Computação", "instituicao": "USP", "ano": 2019 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Service Billing",
+        "link": "https://github.com/leandromatos/service-billing",
+        "descricao": "Cobrança e notas fiscais."
+      }
+    ],
+    "certificacoes": ["Spring Professional"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Arquitetura", "Escalabilidade"]
+  },
+  {
+    "id": 53,
+    "nome": "Marta Oliveira",
+    "foto": null,
+    "cargo": "Analista de Marketing",
+    "telefone": "11946655419",
+    "resumo": "Campanhas de aquisição e retenção.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Google Ads", "Analytics", "SEO"],
+    "email": "marta.oliveira@example.com",
+    "senha": "senha123",
+    "softSkills": ["Comunicação", "Criatividade", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "AdGrowth",
+        "cargo": "Analista de Marketing",
+        "inicio": "2022-04",
+        "fim": "2024-07",
+        "descricao": "Otimização de campanhas e funil."
+      }
+    ],
+    "formacao": [
+      { "curso": "Marketing Digital", "instituicao": "ESPM", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Campanha Lançamento",
+        "link": "https://github.com/martaoliveira/campanha-lancamento",
+        "descricao": "Plano de mídia e relatórios."
+      }
+    ],
+    "certificacoes": ["Google Ads Certification"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["Growth", "Automação"]
+  },
+  {
+    "id": 54,
+    "nome": "Nicolas Andrade",
+    "foto": null,
+    "cargo": "Desenvolvedor Back-End",
+    "telefone": "11945544300",
+    "resumo": "Serviços resilientes e testes robustos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Python", "Django", "Redis"],
+    "email": "nicolas.andrade@example.com",
+    "senha": "senha123",
+    "softSkills": ["Foco", "Colaboração", "Resolução de Problemas"],
+    "experiencias": [
+      {
+        "empresa": "ResilientApps",
+        "cargo": "Back-End Developer",
+        "inicio": "2021-03",
+        "fim": "2024-07",
+        "descricao": "APIs e otimização de queries."
+      }
+    ],
+    "formacao": [
+      { "curso": "Ciência da Computação", "instituicao": "PUC-SP", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Service Notificação",
+        "link": "https://github.com/nicolasandrade/service-notificacao",
+        "descricao": "Envio assíncrono de notificações."
+      }
+    ],
+    "certificacoes": ["Python Advanced"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Escalabilidade", "Observabilidade"]
+  },
+  {
+    "id": 55,
+    "nome": "Olívia Nunes",
+    "foto": null,
+    "cargo": "Product Owner",
+    "telefone": "11944433207",
+    "resumo": "Priorização orientada a valor e métricas.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Roadmap", "Métricas", "User Stories"],
+    "email": "olivia.nunes@example.com",
+    "senha": "senha123",
+    "softSkills": ["Comunicação", "Empatia", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "ValueTrack",
+        "cargo": "Product Owner",
+        "inicio": "2022-06",
+        "fim": "2024-07",
+        "descricao": "Gestão de backlog e discovery."
+      }
+    ],
+    "formacao": [
+      { "curso": "Administração", "instituicao": "FGV", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Gestão",
+        "link": "https://github.com/olivianunes/portal-gestao",
+        "descricao": "Ferramenta de controle operacional."
+      }
+    ],
+    "certificacoes": ["CSPO"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Discovery", "Retenção"]
+  },
+  {
+    "id": 56,
+    "nome": "Paulo Vieira",
+    "foto": null,
+    "cargo": "Engenheiro de Dados",
+    "telefone": "11943322106",
+    "resumo": "Pipelines escaláveis e confiáveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Airflow", "Spark", "Python"],
+    "email": "paulo.vieira@example.com",
+    "senha": "senha123",
+    "softSkills": ["Foco", "Colaboração", "Resolução de Problemas"],
+    "experiencias": [
+      {
+        "empresa": "DataWorks",
+        "cargo": "Data Engineer",
+        "inicio": "2021-12",
+        "fim": "2024-07",
+        "descricao": "Orquestração de pipelines e modelagem."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Computação", "instituicao": "UNICAMP", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "ETL Financeiro",
+        "link": "https://github.com/paulovieira/etl-financeiro",
+        "descricao": "Processamento diário de dados financeiros."
+      }
+    ],
+    "certificacoes": ["Data Engineer Associate"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Data Quality", "Streaming"]
+  },
+  {
+    "id": 57,
+    "nome": "Queila Damasceno",
+    "foto": null,
+    "cargo": "Analista de Qualidade",
+    "telefone": "11942211005",
+    "resumo": "Testes e garantia de qualidade contínua.",
+    "localizacao": "São Paulo/SP",
+    "area": "Qualidade",
+    "habilidadesTecnicas": ["Cypress", "Postman", "Git"],
+    "email": "queila.damasceno@example.com",
+    "senha": "senha123",
+    "softSkills": ["Detalhismo", "Comunicação", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "QualityWorks",
+        "cargo": "QA Analyst",
+        "inicio": "2022-02",
+        "fim": "2024-07",
+        "descricao": "Automação e testes exploratórios."
+      }
+    ],
+    "formacao": [
+      { "curso": "Sistemas de Informação", "instituicao": "UNIP", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Suite E2E",
+        "link": "https://github.com/queiladamasceno/suite-e2e",
+        "descricao": "Automação de cenários principais."
+      }
+    ],
+    "certificacoes": ["ISTQB Foundation"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
+    "areaInteresses": ["Automação", "Qualidade Contínua"]
+  },
+  {
+    "id": 58,
+    "nome": "Renato Barbosa",
+    "foto": null,
+    "cargo": "Engenheiro DevOps",
+    "telefone": "11941100994",
+    "resumo": "Automação e confiabilidade de ambientes.",
+    "localizacao": "São Paulo/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["Docker", "Kubernetes", "Grafana"],
+    "email": "renato.barbosa@example.com",
+    "senha": "senha123",
+    "softSkills": ["Proatividade", "Colaboração", "Resolução de Problemas"],
+    "experiencias": [
+      {
+        "empresa": "InfraScale",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-08",
+        "fim": "2024-07",
+        "descricao": "Monitoramento e automação de deploy."
+      }
+    ],
+    "formacao": [
+      { "curso": "Redes de Computadores", "instituicao": "SENAC", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Stack Observability",
+        "link": "https://github.com/renatobarbosa/stack-observability",
+        "descricao": "Templates de métricas e alertas."
+      }
+    ],
+    "certificacoes": ["CKA"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["SRE", "Automação"]
+  },
+  {
+    "id": 59,
+    "nome": "Silvia Porto",
+    "foto": null,
+    "cargo": "Analista de Produto",
+    "telefone": "11940099843",
+    "resumo": "Evolução de funcionalidades com foco em uso real.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["SQL", "Roadmap", "KPIs"],
+    "email": "silvia.porto@example.com",
+    "senha": "senha123",
+    "softSkills": ["Comunicação", "Empatia", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "ProdInsight",
+        "cargo": "Analista de Produto",
+        "inicio": "2022-03",
+        "fim": "2024-07",
+        "descricao": "Monitoramento de métricas e discovery."
+      }
+    ],
+    "formacao": [
+      { "curso": "Administração", "instituicao": "UNIP", "ano": 2021 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Módulo Relatórios",
+        "link": "https://github.com/silviaporto/modulo-relatorios",
+        "descricao": "Central de relatórios corporativos."
+      }
+    ],
+    "certificacoes": ["Product Analytics"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Métricas", "Retenção"]
+  },
+  {
+    "id": 60,
+    "nome": "Tiago Figueiredo",
+    "foto": null,
+    "cargo": "Engenheiro de Software",
+    "telefone": "11949988752",
+    "resumo": "Boas práticas e escalabilidade em serviços.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Go", "PostgreSQL", "Docker"],
+    "email": "tiago.figueiredo@example.com",
+    "senha": "senha123",
+    "softSkills": ["Foco", "Colaboração", "Resolução de Problemas"],
+    "experiencias": [
+      {
+        "empresa": "ScaleCore",
+        "cargo": "Software Engineer",
+        "inicio": "2021-05",
+        "fim": "2024-07",
+        "descricao": "Serviços de alta performance e escalabilidade."
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Computação", "instituicao": "PUC-SP", "ano": 2020 }
+    ],
+    "projetos": [
+      {
+        "titulo": "Service Metrics",
+        "link": "https://github.com/tiagofigueiredo/service-metrics",
+        "descricao": "Coleta e exposição de métricas."
+      }
+    ],
+    "certificacoes": ["Go Developer"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Observabilidade", "Arquitetura"]
   }
 ]
 
