@@ -4,6 +4,7 @@ import React, {useMemo, useState} from "react";
 import {HiSearch} from "react-icons/hi";
 import type {User} from "../../../types/User.ts";
 import UserCard from "../../UserCard";
+import UserDialog from "../../UserDialog";
 
 export default function SearchSection() {
     const {users} = useGlobal();
@@ -15,16 +16,38 @@ export default function SearchSection() {
             setPesquisa(String(e));
         }
     }
-
     const filteredUsers: User[] = useMemo(() => {
         const q = pesquisa.trim().toLowerCase();
         if (!q) return users;
+
+        const filtrarUser = (user: User) => {
+            const nomeMatch = user.nome.toLowerCase().includes(q);
+            const emailMatch = user.email.toLowerCase().includes(q);
+            const tecnologiasMatch = user.habilidadesTecnicas.some((tech) =>
+                tech.toLowerCase().includes(q)
+            );
+            const areasInteresseMatch = user.areaInteresses.some((area) =>
+                area.toLowerCase().includes(q)
+            );
+            const cargoMatch = user.cargo.toLowerCase().includes(q);
+            const formacaoMatch = user.formacao.some((f) =>
+                f.curso.toLowerCase().includes(q)
+            );
+            const idiomasMatch = user.idiomas.some((idioma) =>
+                idioma.idioma.toLowerCase().includes(q)
+            );
+
+            return areasInteresseMatch || nomeMatch || emailMatch || tecnologiasMatch || cargoMatch || formacaoMatch || idiomasMatch;
+        }
+
         return users.filter(
             (user) =>
-                user.nome.toLowerCase().includes(q) ||
-                user.email.toLowerCase().includes(q)
+                filtrarUser(user)
         );
     }, [pesquisa, users]);
+
+    const [selectedUser, setSelectedUser] = useState<User | null>(null);
+    const [isModalOpen, setIsModalOpen] = useState<boolean>(false);
 
     return (
         <>
@@ -46,11 +69,27 @@ export default function SearchSection() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
                         {filteredUsers.map((user) => (
-                            <UserCard user={user} key={user.id}/>
+                            <UserCard user={user} key={user.id} onClick={() => {
+                                setSelectedUser(user)
+                                setIsModalOpen(true)
+                            }}/>
                         ))}
                     </div>
+
+
                 </div>
             </section>
+            {
+                selectedUser && <UserDialog
+                    open={isModalOpen}
+                    onClose={() => {
+                        setIsModalOpen(false)
+                        setSelectedUser(null)
+                    }}
+                    user={selectedUser}
+                />
+            }
+
         </>
     );
 }
