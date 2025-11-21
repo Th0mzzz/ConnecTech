@@ -83,19 +83,6 @@ export default function Header() {
                                 )
                             }
                         </button>
-                        <Link to="/profile" className={styles.user}>
-                            {screenWidth >= 1024 && (
-                                <p className="link">
-                                    {user ? user.nome.split(" ")[0] : "Entrar"}
-                                </p>
-                            )}
-
-                            <img
-
-                                src={user ? (user.img ?? defaultUser) : defaultUser}
-                                alt="Imagem do usuário"
-                            />
-                        </Link>
                     </div>
                 </nav>
             </header>
