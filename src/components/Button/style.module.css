@@ -33,17 +33,17 @@
 
     &.danger {
         background-color: var(--danger);
-
-        &:hover {
-            backdrop-filter: brightness(0.8);
-        }
     }
 
     &.success {
         background-color: var(--success);
+    }
+
+    &.dark {
+        background-color: #0B1220;
 
         &:hover {
-            backdrop-filter: brightness(0.8);
+            background-color: #242c4b;
         }
     }
 }
