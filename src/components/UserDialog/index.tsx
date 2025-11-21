@@ -45,14 +45,14 @@ export default function UserDialog({user, onClose, open}: { user?: User, open: b
     return (
         <>
             <Dialog open={open} onClose={onClose}
-                    className={"flex justify-center w-full px-4 py-8 fixed z-50 inset-0 overflow-y-auto bg-black/30 text-[var(--text)]"}>
+                    className={"flex justify-center w-full px-4 py-8 fixed z-50 inset-0 overflow-y-auto max-h-screen bg-black/30 text-[var(--text)] h-fit"}>
 
                 <DialogPanel
-                    className="relative w-full max-w-[var(--max-content)] px-8 py-4 border border-[var(--border-color)] bg-[var(--surface)] rounded-lg shadow-lg transition duration-300 ease-out data-closed:opacity-0">
+                    className="relative w-full max-w-[var(--max-content)]  h-fit px-8 py-4 border border-[var(--border-color)] bg-[var(--surface)] rounded-lg shadow-lg transition duration-300 ease-out data-closed:opacity-0">
                     {
                         user ? (
                             <>
-                                <div className="flex flex-col gap-10 md:flex-row ">
+                                <div className="flex flex-col gap-10 md:flex-row">
                                     <div className="flex-shrink-0 max-w-[230px]">
                                         <img src={user.foto ?? defaultUser} alt={user.nome}
                                              className="w-full  rounded-lg object-cover border border-[var(--border-color)]"/>
@@ -103,7 +103,7 @@ export default function UserDialog({user, onClose, open}: { user?: User, open: b
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="flex flex-col gap-1">
+                                    <div className="flex flex-col gap-1 min-w-0">
                                         <h3 className="subtitle ">{user.nome}</h3>
                                         <span className={"text text-[var(--secondary)]"}>{user.cargo}</span>
                                         <p className="text">{user.resumo}</p>
