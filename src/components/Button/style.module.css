@@ -1,0 +1,49 @@
+.button {
+    background-color: var(--primary);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+    &:hover {
+        background-color: var(--primary-bold);
+    }
+
+    &.disabled {
+        background-color: gray;
+        cursor: not-allowed;
+    }
+
+    &.primary {
+        background-color: var(--primary);
+
+        &:hover {
+            background-color: var(--primary-bold);
+        }
+    }
+
+    &.secondary {
+        background-color: var(--secondary);
+
+        &:hover {
+            background-color: var(--primary-bold);
+        }
+    }
+
+    &.danger {
+        background-color: var(--danger);
+
+        &:hover {
+            backdrop-filter: brightness(0.8);
+        }
+    }
+
+    &.success {
+        background-color: var(--success);
+
+        &:hover {
+            backdrop-filter: brightness(0.8);
+        }
+    }
+}
