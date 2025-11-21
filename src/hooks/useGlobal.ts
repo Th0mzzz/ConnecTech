@@ -1,10 +1,6 @@
 import {createContext, useContext} from 'react';
+import type {User} from "../types/User.ts";
 
-export interface User {
-  id?: number | string;
-  nome: string;
-  img?: string;
-}
 
 export interface NavLink {
   name: string;

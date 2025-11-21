@@ -21,9 +21,9 @@ export const GlobalProvider: React.FC<GlobalProviderProps> = ({ children }) => {
 
   const [users, setUsers] = useState<User[]>(() => {
     try {
-      const localUsers = localStorage.getItem('allUsers');
+      const localUsers = localStorage.getItem('connecTechUsers');
       if (localUsers) return JSON.parse(localUsers);
-      localStorage.setItem('allUsers', JSON.stringify(usersJson));
+      localStorage.setItem('connecTechUsers', JSON.stringify(usersJson));
       return usersJson as User[];
     } catch {
       return [];
@@ -61,12 +61,11 @@ export const GlobalProvider: React.FC<GlobalProviderProps> = ({ children }) => {
     if (newUser) {
       const newUsers = [...users, newUser];
       setUsers(newUsers);
-      localStorage.setItem('allUsers', JSON.stringify(newUsers));
+      localStorage.setItem('connecTechUsers', JSON.stringify(newUsers));
     }
   };
 
   const links: NavLink[] = [];
-
 
   const globalValue = {
     user,
