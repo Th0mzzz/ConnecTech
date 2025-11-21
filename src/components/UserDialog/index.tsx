@@ -4,15 +4,51 @@ import defaultUser from "../../assets/default-user.jpg";
 import Button from "../Button";
 import Tag from "../Tag";
 import {Link} from "react-router-dom";
+import {toast} from "react-toastify";
+import {FaX} from "react-icons/fa6";
 
 export default function UserDialog({user, onClose, open}: { user?: User, open: boolean, onClose: () => void }) {
+    const handleRecomendar = () => {
+        if (!user) return;
+        try {
+            const {origin, pathname, search} = window.location;
+            const params = new URLSearchParams(search);
+            params.set("userId", String(user.id));
+            const url = `${origin}${pathname}?${params.toString()}`;
+            navigator.clipboard.writeText(url);
+            toast.success("Link copiado para a área de transferência!");
+        } catch {
+            toast.error("Erro ao copiar o link para a área de transferência.");
+        }
+    };
+    const handleEnviarMensagem = () => {
+        if (!user?.telefone) {
+            toast.error("Telefone não disponível.");
+            return;
+        }
+        const numero = user.telefone.replace(/\D/g, "");
+        if (!numero) {
+            toast.error("Telefone inválido.");
+            return;
+        }
+        const mensagem = `Olá ${user.nome}, encontrei seu perfil no connecTech e gostaria de conversar!.`;
+        const url = `https://wa.me/${numero}?text=${encodeURIComponent(mensagem)}`;
+        try {
+            toast.success("Abrindo WhatsApp...");
+            setTimeout(() => {
+                window.open(url, "_blank", "noopener,noreferrer");
+            }, 1000)
+        } catch {
+            toast.error("Não foi possível abrir o WhatsApp.");
+        }
+    };
     return (
         <>
             <Dialog open={open} onClose={onClose}
                     className={"flex items-center justify-center w-full px-4 py-8 fixed z-50 inset-0 overflow-y-auto bg-black/30 text-[var(--text)]"}>
 
                 <DialogPanel
-                    className="w-full max-w-[var(--max-content)] px-8 py-4 border border-[var(--border-color)] bg-[var(--surface)] rounded-lg shadow-lg transition duration-300 ease-out data-closed:opacity-0">
+                    className="relative w-full max-w-[var(--max-content)] px-8 py-4 border border-[var(--border-color)] bg-[var(--surface)] rounded-lg shadow-lg transition duration-300 ease-out data-closed:opacity-0">
                     {
                         user ? (
                             <>
@@ -22,14 +58,12 @@ export default function UserDialog({user, onClose, open}: { user?: User, open: b
                                              className="w-full  rounded-lg object-cover border border-[var(--border-color)]"/>
                                         <Button
                                             className={"w-full mt-3"}
-                                            onClick={() => {
-                                            }}>
+                                            onClick={handleEnviarMensagem}>
                                             Enviar mensagem
                                         </Button>
                                         <Button
                                             className={"w-full mt-3"}
-                                            onClick={() => {
-                                            }}>
+                                            onClick={handleRecomendar}>
                                             Recomendar perfil
                                         </Button>
                                         <div className={"mt-3"}>
@@ -227,6 +261,7 @@ export default function UserDialog({user, onClose, open}: { user?: User, open: b
                             </>
                         ) : <>Usuário não encontrado</>
                     }
+                    <FaX size={20} onClick={onClose} className={"absolute top-0 right-0 m-4 cursor-pointer"} />
                 </DialogPanel>
 
             </Dialog>

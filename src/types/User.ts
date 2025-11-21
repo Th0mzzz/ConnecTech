@@ -26,7 +26,7 @@ export interface Idioma {
 export interface User {
     id: number | string;
     nome: string;
-    foto: string;
+    foto: string | null;
     cargo: string;
     telefone: string;
     resumo: string;

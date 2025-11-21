@@ -1,13 +1,16 @@
 import Input from "../../Input";
 import {useGlobal} from "../../../hooks/useGlobal.ts";
-import React, {useMemo, useState} from "react";
+import React, {useEffect, useMemo, useState} from "react";
 import {HiSearch} from "react-icons/hi";
 import type {User} from "../../../types/User.ts";
 import UserCard from "../../UserCard";
 import UserDialog from "../../UserDialog";
+import {useSearchParams} from "react-router";
 
 export default function SearchSection() {
-    const {users} = useGlobal();
+    const {users, getUserById} = useGlobal();
+    const params = useSearchParams()
+    const userId = params[0].get("userId");
     const [pesquisa, setPesquisa] = useState<string>("");
     const handleChange = (e: React.ChangeEvent<HTMLInputElement> | string | number) => {
         if (e && typeof e === "object" && "target" in e) {
@@ -45,9 +48,19 @@ export default function SearchSection() {
                 filtrarUser(user)
         );
     }, [pesquisa, users]);
-
     const [selectedUser, setSelectedUser] = useState<User | null>(null);
     const [isModalOpen, setIsModalOpen] = useState<boolean>(false);
+
+    useEffect(() => {
+        if(userId){
+            const selUser = getUserById(userId)
+            if(selUser){
+                // eslint-disable-next-line react-hooks/set-state-in-effect
+                setSelectedUser(selUser)
+                setIsModalOpen(true)
+            }
+        }
+    }, [userId, getUserById]);
 
     return (
         <>

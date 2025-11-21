@@ -20,6 +20,7 @@ export interface GlobalContextValue {
   setLoading: (v: boolean) => void;
   loading: boolean;
   links: NavLink[];
+  getUserById: (id: string) => User | null;
 }
 
 export const GlobalContext = createContext<GlobalContextValue | undefined>(undefined);

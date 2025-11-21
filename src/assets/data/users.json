@@ -8,10 +8,18 @@
     "resumo": "Especialista em interfaces modernas e acessíveis.",
     "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["React", "JavaScript", "TailwindCSS"],
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "TailwindCSS"
+    ],
     "email": "laura0123@gmail.com",
     "senha": "senha123",
-    "softSkills": ["Comunicação", "Colaboração", "Criatividade"],
+    "softSkills": [
+      "Comunicação",
+      "Colaboração",
+      "Criatividade"
+    ],
     "experiencias": [
       {
         "empresa": "TechVision",
@@ -22,7 +30,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Software", "instituicao": "FIAP", "ano": 2023 }
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
     ],
     "projetos": [
       {
@@ -31,9 +43,19 @@
         "descricao": "Painel interativo para análise de métricas em tempo real."
       }
     ],
-    "certificacoes": ["Google UX Design Certificate"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["UI/UX", "Educação Digital"]
+    "certificacoes": [
+      "Google UX Design Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "UI/UX",
+      "Educação Digital"
+    ]
   },
   {
     "id": 2,
@@ -44,10 +66,18 @@
     "resumo": "Focado em APIs escaláveis e microsserviços.",
     "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["Node.js", "TypeScript", "PostgreSQL"],
+    "habilidadesTecnicas": [
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL"
+    ],
     "email": "pedro.almeida@example.com",
     "senha": "senha123",
-    "softSkills": ["Resolução de Problemas", "Colaboração", "Gestão de Tempo"],
+    "softSkills": [
+      "Resolução de Problemas",
+      "Colaboração",
+      "Gestão de Tempo"
+    ],
     "experiencias": [
       {
         "empresa": "DataBridge",
@@ -58,7 +88,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Ciência da Computação", "instituicao": "USP", "ano": 2022 }
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2022
+      }
     ],
     "projetos": [
       {
@@ -67,9 +101,19 @@
         "descricao": "Serviço para processamento de transações financeiras."
       }
     ],
-    "certificacoes": ["AWS Cloud Practitioner"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Arquitetura", "Escalabilidade"]
+    "certificacoes": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura",
+      "Escalabilidade"
+    ]
   },
   {
     "id": 3,
@@ -80,10 +124,18 @@
     "resumo": "Cria experiências centradas no usuário para produtos digitais.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Design",
-    "habilidadesTecnicas": ["Figma", "Design Thinking", "Prototipagem"],
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design Thinking",
+      "Prototipagem"
+    ],
     "email": "mariana.costa@example.com",
     "senha": "senha123",
-    "softSkills": ["Empatia", "Comunicação", "Pesquisa"],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Pesquisa"
+    ],
     "experiencias": [
       {
         "empresa": "InnovApps",
@@ -94,7 +146,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Design Digital", "instituicao": "PUC-Rio", "ano": 2021 }
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-Rio",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -103,9 +159,19 @@
         "descricao": "Aplicativo para monitoramento de hábitos de bem-estar."
       }
     ],
-    "certificacoes": ["Certificação UX-PM"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["Pesquisas de Usuário", "Acessibilidade"]
+    "certificacoes": [
+      "Certificação UX-PM"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Pesquisas de Usuário",
+      "Acessibilidade"
+    ]
   },
   {
     "id": 4,
@@ -116,10 +182,18 @@
     "resumo": "Transforma dados em insights acionáveis.",
     "localizacao": "Curitiba/PR",
     "area": "Dados",
-    "habilidadesTecnicas": ["Python", "SQL", "Power BI"],
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
     "email": "gustavo.henrique@example.com",
     "senha": "senha123",
-    "softSkills": ["Análise Crítica", "Comunicação", "Organização"],
+    "softSkills": [
+      "Análise Crítica",
+      "Comunicação",
+      "Organização"
+    ],
     "experiencias": [
       {
         "empresa": "InsightLabs",
@@ -130,7 +204,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Estatística", "instituicao": "UFPR", "ano": 2020 }
+      {
+        "curso": "Estatística",
+        "instituicao": "UFPR",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -139,9 +217,19 @@
         "descricao": "Automação de coleta e limpeza de dados públicos."
       }
     ],
-    "certificacoes": ["Microsoft Data Analyst"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Machine Learning", "BI"]
+    "certificacoes": [
+      "Microsoft Data Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Machine Learning",
+      "BI"
+    ]
   },
   {
     "id": 5,
@@ -152,10 +240,18 @@
     "resumo": "Foco em alinhamento estratégico de produto.",
     "localizacao": "São Paulo/SP",
     "area": "Produto",
-    "habilidadesTecnicas": ["Scrum", "Roadmapping", "Prioritização"],
+    "habilidadesTecnicas": [
+      "Scrum",
+      "Roadmapping",
+      "Prioritização"
+    ],
     "email": "beatriz.moreira@example.com",
     "senha": "senha123",
-    "softSkills": ["Liderança", "Comunicação", "Negociação"],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Negociação"
+    ],
     "experiencias": [
       {
         "empresa": "AgileWorks",
@@ -166,7 +262,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Administração", "instituicao": "FGV", "ano": 2019 }
+      {
+        "curso": "Administração",
+        "instituicao": "FGV",
+        "ano": 2019
+      }
     ],
     "projetos": [
       {
@@ -175,9 +275,19 @@
         "descricao": "Portal para engajamento e autoatendimento."
       }
     ],
-    "certificacoes": ["CSPO"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["Gestão de Produto", "Métricas"]
+    "certificacoes": [
+      "CSPO"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Gestão de Produto",
+      "Métricas"
+    ]
   },
   {
     "id": 6,
@@ -188,10 +298,18 @@
     "resumo": "Automação e confiabilidade em pipelines de entrega contínua.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Infraestrutura",
-    "habilidadesTecnicas": ["Docker", "Kubernetes", "CI/CD"],
+    "habilidadesTecnicas": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
     "email": "rafael.silva@example.com",
     "senha": "senha123",
-    "softSkills": ["Colaboração", "Resolução de Problemas", "Agilidade"],
+    "softSkills": [
+      "Colaboração",
+      "Resolução de Problemas",
+      "Agilidade"
+    ],
     "experiencias": [
       {
         "empresa": "CloudWave",
@@ -202,7 +320,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia da Computação", "instituicao": "CEFET-MG", "ano": 2021 }
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "CEFET-MG",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -211,9 +333,19 @@
         "descricao": "Provisionamento automatizado de ambientes."
       }
     ],
-    "certificacoes": ["CKA"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["Observabilidade", "Automação"]
+    "certificacoes": [
+      "CKA"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Observabilidade",
+      "Automação"
+    ]
   },
   {
     "id": 7,
@@ -224,10 +356,18 @@
     "resumo": "Garantia de qualidade com foco em testes automatizados.",
     "localizacao": "Porto Alegre/RS",
     "area": "Qualidade",
-    "habilidadesTecnicas": ["Cypress", "Selenium", "Postman"],
+    "habilidadesTecnicas": [
+      "Cypress",
+      "Selenium",
+      "Postman"
+    ],
     "email": "camila.rezende@example.com",
     "senha": "senha123",
-    "softSkills": ["Detalhismo", "Comunicação", "Pensamento Crítico"],
+    "softSkills": [
+      "Detalhismo",
+      "Comunicação",
+      "Pensamento Crítico"
+    ],
     "experiencias": [
       {
         "empresa": "QualityHub",
@@ -238,7 +378,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Sistemas de Informação", "instituicao": "PUC-RS", "ano": 2020 }
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "PUC-RS",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -247,9 +391,19 @@
         "descricao": "Base para automação integrada de testes e2e."
       }
     ],
-    "certificacoes": ["ISTQB Foundation"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Automação", "Qualidade Contínua"]
+    "certificacoes": [
+      "ISTQB Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "Qualidade Contínua"
+    ]
   },
   {
     "id": 8,
@@ -260,10 +414,18 @@
     "resumo": "Criação de apps híbridos performáticos.",
     "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["React Native", "Expo", "TypeScript"],
+    "habilidadesTecnicas": [
+      "React Native",
+      "Expo",
+      "TypeScript"
+    ],
     "email": "lucas.pereira@example.com",
     "senha": "senha123",
-    "softSkills": ["Resiliência", "Trabalho em Equipe", "Organização"],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em Equipe",
+      "Organização"
+    ],
     "experiencias": [
       {
         "empresa": "AppForge",
@@ -274,7 +436,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Análise e Desenvolvimento de Sistemas", "instituicao": "Impacta", "ano": 2022 }
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Impacta",
+        "ano": 2022
+      }
     ],
     "projetos": [
       {
@@ -283,9 +449,19 @@
         "descricao": "App para registro de exercícios e saúde."
       }
     ],
-    "certificacoes": ["React Native Specialist"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["Performance Mobile", "UI Nativa"]
+    "certificacoes": [
+      "React Native Specialist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Performance Mobile",
+      "UI Nativa"
+    ]
   },
   {
     "id": 9,
@@ -296,10 +472,18 @@
     "resumo": "Criação de interfaces limpas e consistentes.",
     "localizacao": "Recife/PE",
     "area": "Design",
-    "habilidadesTecnicas": ["Figma", "Design System", "Illustrator"],
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design System",
+      "Illustrator"
+    ],
     "email": "fernanda.lima@example.com",
     "senha": "senha123",
-    "softSkills": ["Criatividade", "Colaboração", "Detalhismo"],
+    "softSkills": [
+      "Criatividade",
+      "Colaboração",
+      "Detalhismo"
+    ],
     "experiencias": [
       {
         "empresa": "PixelArt",
@@ -310,7 +494,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Design Gráfico", "instituicao": "UFPE", "ano": 2020 }
+      {
+        "curso": "Design Gráfico",
+        "instituicao": "UFPE",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -319,9 +507,19 @@
         "descricao": "Componentização visual para múltiplos produtos."
       }
     ],
-    "certificacoes": ["Design System Certification"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Acessibilidade", "Design Tokens"]
+    "certificacoes": [
+      "Design System Certification"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Design Tokens"
+    ]
   },
   {
     "id": 10,
@@ -332,10 +530,18 @@
     "resumo": "Atuação ponta a ponta em arquitetura e implementação.",
     "localizacao": "Campinas/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["Next.js", "Node.js", "MongoDB"],
+    "habilidadesTecnicas": [
+      "Next.js",
+      "Node.js",
+      "MongoDB"
+    ],
     "email": "thiago.rocha@example.com",
     "senha": "senha123",
-    "softSkills": ["Autonomia", "Comunicação", "Colaboração"],
+    "softSkills": [
+      "Autonomia",
+      "Comunicação",
+      "Colaboração"
+    ],
     "experiencias": [
       {
         "empresa": "StackForge",
@@ -346,7 +552,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Software", "instituicao": "UNICAMP", "ano": 2023 }
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UNICAMP",
+        "ano": 2023
+      }
     ],
     "projetos": [
       {
@@ -355,9 +565,19 @@
         "descricao": "Plataforma modular de comércio eletrônico."
       }
     ],
-    "certificacoes": ["Azure Developer Associate"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["Arquitetura Limpa", "Escalabilidade"]
+    "certificacoes": [
+      "Azure Developer Associate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura Limpa",
+      "Escalabilidade"
+    ]
   },
   {
     "id": 11,
@@ -368,10 +588,18 @@
     "resumo": "Modelagem preditiva e análise avançada.",
     "localizacao": "São Paulo/SP",
     "area": "Dados",
-    "habilidadesTecnicas": ["Python", "Pandas", "TensorFlow"],
+    "habilidadesTecnicas": [
+      "Python",
+      "Pandas",
+      "TensorFlow"
+    ],
     "email": "juliana.martins@example.com",
     "senha": "senha123",
-    "softSkills": ["Pensamento Analítico", "Aprendizado Contínuo", "Comunicação"],
+    "softSkills": [
+      "Pensamento Analítico",
+      "Aprendizado Contínuo",
+      "Comunicação"
+    ],
     "experiencias": [
       {
         "empresa": "PredictIA",
@@ -382,7 +610,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Matemática Aplicada", "instituicao": "USP", "ano": 2021 }
+      {
+        "curso": "Matemática Aplicada",
+        "instituicao": "USP",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -391,9 +623,19 @@
         "descricao": "Aplicação de regressão e séries temporais."
       }
     ],
-    "certificacoes": ["TensorFlow Developer"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["ML Ops", "Visão Computacional"]
+    "certificacoes": [
+      "TensorFlow Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "ML Ops",
+      "Visão Computacional"
+    ]
   },
   {
     "id": 12,
@@ -404,10 +646,18 @@
     "resumo": "Monitoramento e mitigação de vulnerabilidades.",
     "localizacao": "Fortaleza/CE",
     "area": "Segurança",
-    "habilidadesTecnicas": ["OWASP", "SIEM", "Pentest"],
+    "habilidadesTecnicas": [
+      "OWASP",
+      "SIEM",
+      "Pentest"
+    ],
     "email": "andre.oliveira@example.com",
     "senha": "senha123",
-    "softSkills": ["Detalhismo", "Pensamento Crítico", "Proatividade"],
+    "softSkills": [
+      "Detalhismo",
+      "Pensamento Crítico",
+      "Proatividade"
+    ],
     "experiencias": [
       {
         "empresa": "SecureNet",
@@ -418,7 +668,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Redes de Computadores", "instituicao": "IFCE", "ano": 2020 }
+      {
+        "curso": "Redes de Computadores",
+        "instituicao": "IFCE",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -427,9 +681,19 @@
         "descricao": "Ferramenta para varredura básica de portas e serviços."
       }
     ],
-    "certificacoes": ["CompTIA Security+"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Cybersecurity", "Hardening"]
+    "certificacoes": [
+      "CompTIA Security+"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cybersecurity",
+      "Hardening"
+    ]
   },
   {
     "id": 13,
@@ -440,10 +704,18 @@
     "resumo": "Facilitação de times ágeis e remoção de impedimentos.",
     "localizacao": "São Paulo/SP",
     "area": "Produto",
-    "habilidadesTecnicas": ["Scrum", "Kanban", "Agile Coaching"],
+    "habilidadesTecnicas": [
+      "Scrum",
+      "Kanban",
+      "Agile Coaching"
+    ],
     "email": "patricia.duarte@example.com",
     "senha": "senha123",
-    "softSkills": ["Liderança Servidora", "Comunicação", "Empatia"],
+    "softSkills": [
+      "Liderança Servidora",
+      "Comunicação",
+      "Empatia"
+    ],
     "experiencias": [
       {
         "empresa": "AgileForce",
@@ -454,7 +726,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Gestão de Projetos", "instituicao": "Mackenzie", "ano": 2019 }
+      {
+        "curso": "Gestão de Projetos",
+        "instituicao": "Mackenzie",
+        "ano": 2019
+      }
     ],
     "projetos": [
       {
@@ -463,9 +739,19 @@
         "descricao": "Documentação de práticas e rituais recomendados."
       }
     ],
-    "certificacoes": ["PSM I"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Cultura Ágil", "Métricas de Fluxo"]
+    "certificacoes": [
+      "PSM I"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Ágil",
+      "Métricas de Fluxo"
+    ]
   },
   {
     "id": 14,
@@ -476,10 +762,18 @@
     "resumo": "Arquiteturas escaláveis em nuvem pública.",
     "localizacao": "Brasília/DF",
     "area": "Infraestrutura",
-    "habilidadesTecnicas": ["AWS", "Terraform", "Kubernetes"],
+    "habilidadesTecnicas": [
+      "AWS",
+      "Terraform",
+      "Kubernetes"
+    ],
     "email": "felipe.cardoso@example.com",
     "senha": "senha123",
-    "softSkills": ["Planejamento", "Comunicação", "Resolução de Problemas"],
+    "softSkills": [
+      "Planejamento",
+      "Comunicação",
+      "Resolução de Problemas"
+    ],
     "experiencias": [
       {
         "empresa": "SkyScale",
@@ -490,7 +784,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia Elétrica", "instituicao": "UnB", "ano": 2020 }
+      {
+        "curso": "Engenharia Elétrica",
+        "instituicao": "UnB",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -499,9 +797,19 @@
         "descricao": "Modelo de referência para alta disponibilidade."
       }
     ],
-    "certificacoes": ["AWS Solutions Architect"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["FinOps", "Resiliência"]
+    "certificacoes": [
+      "AWS Solutions Architect"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "FinOps",
+      "Resiliência"
+    ]
   },
   {
     "id": 15,
@@ -512,10 +820,18 @@
     "resumo": "Estratégias de conteúdo e aquisição orgânica.",
     "localizacao": "São Paulo/SP",
     "area": "Marketing",
-    "habilidadesTecnicas": ["SEO", "Google Analytics", "Copywriting"],
+    "habilidadesTecnicas": [
+      "SEO",
+      "Google Analytics",
+      "Copywriting"
+    ],
     "email": "sofia.nogueira@example.com",
     "senha": "senha123",
-    "softSkills": ["Comunicação", "Criatividade", "Organização"],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Organização"
+    ],
     "experiencias": [
       {
         "empresa": "GrowMedia",
@@ -526,7 +842,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Publicidade e Propaganda", "instituicao": "ESPM", "ano": 2021 }
+      {
+        "curso": "Publicidade e Propaganda",
+        "instituicao": "ESPM",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -535,9 +855,19 @@
         "descricao": "Plano de otimização de conteúdo e estrutura."
       }
     ],
-    "certificacoes": ["Google Analytics IQ"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Growth", "Automação Marketing"]
+    "certificacoes": [
+      "Google Analytics IQ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Growth",
+      "Automação Marketing"
+    ]
   },
   {
     "id": 16,
@@ -548,10 +878,18 @@
     "resumo": "APIs robustas em ambientes de alta carga.",
     "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["Go", "PostgreSQL", "Docker"],
+    "habilidadesTecnicas": [
+      "Go",
+      "PostgreSQL",
+      "Docker"
+    ],
     "email": "joao.barros@example.com",
     "senha": "senha123",
-    "softSkills": ["Foco", "Resolução de Problemas", "Colaboração"],
+    "softSkills": [
+      "Foco",
+      "Resolução de Problemas",
+      "Colaboração"
+    ],
     "experiencias": [
       {
         "empresa": "FastAPI Corp",
@@ -562,7 +900,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Ciência da Computação", "instituicao": "UFABC", "ano": 2023 }
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFABC",
+        "ano": 2023
+      }
     ],
     "projetos": [
       {
@@ -571,9 +913,19 @@
         "descricao": "Serviço de autenticação JWT escalável."
       }
     ],
-    "certificacoes": ["Linux Foundation Go"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Alta Performance", "Arquitetura"]
+    "certificacoes": [
+      "Linux Foundation Go"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Alta Performance",
+      "Arquitetura"
+    ]
   },
   {
     "id": 17,
@@ -584,10 +936,18 @@
     "resumo": "Dashboards para suporte à decisão.",
     "localizacao": "Porto Alegre/RS",
     "area": "Dados",
-    "habilidadesTecnicas": ["SQL", "Metabase", "Excel"],
+    "habilidadesTecnicas": [
+      "SQL",
+      "Metabase",
+      "Excel"
+    ],
     "email": "leticia.prado@example.com",
     "senha": "senha123",
-    "softSkills": ["Comunicação", "Organização", "Colaboração"],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Colaboração"
+    ],
     "experiencias": [
       {
         "empresa": "BizData",
@@ -598,7 +958,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Administração", "instituicao": "PUC-RS", "ano": 2020 }
+      {
+        "curso": "Administração",
+        "instituicao": "PUC-RS",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -607,9 +971,19 @@
         "descricao": "Dashboard para acompanhamento diário de vendas."
       }
     ],
-    "certificacoes": ["Power BI Data Analyst"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["Data Viz", "Governança"]
+    "certificacoes": [
+      "Power BI Data Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Data Viz",
+      "Governança"
+    ]
   },
   {
     "id": 18,
@@ -620,10 +994,18 @@
     "resumo": "Integrações e soluções web completas.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["Laravel", "Vue.js", "MySQL"],
+    "habilidadesTecnicas": [
+      "Laravel",
+      "Vue.js",
+      "MySQL"
+    ],
     "email": "bruno.teixeira@example.com",
     "senha": "senha123",
-    "softSkills": ["Autonomia", "Responsabilidade", "Colaboração"],
+    "softSkills": [
+      "Autonomia",
+      "Responsabilidade",
+      "Colaboração"
+    ],
     "experiencias": [
       {
         "empresa": "WebCore",
@@ -634,7 +1016,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Sistemas de Informação", "instituicao": "Estácio", "ano": 2021 }
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "Estácio",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -643,9 +1029,19 @@
         "descricao": "Sistema de cursos e trilhas de aprendizado."
       }
     ],
-    "certificacoes": ["PHP Developer"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["APIs", "Padrões de Projeto"]
+    "certificacoes": [
+      "PHP Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "APIs",
+      "Padrões de Projeto"
+    ]
   },
   {
     "id": 19,
@@ -656,10 +1052,18 @@
     "resumo": "Pesquisa e validação centrada no usuário.",
     "localizacao": "São Paulo/SP",
     "area": "Design",
-    "habilidadesTecnicas": ["Entrevistas", "Mapas de Jornada", "Personas"],
+    "habilidadesTecnicas": [
+      "Entrevistas",
+      "Mapas de Jornada",
+      "Personas"
+    ],
     "email": "carolina.farias@example.com",
     "senha": "senha123",
-    "softSkills": ["Empatia", "Comunicação", "Pensamento Analítico"],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Pensamento Analítico"
+    ],
     "experiencias": [
       {
         "empresa": "UserSense",
@@ -670,7 +1074,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Psicologia", "instituicao": "USP", "ano": 2020 }
+      {
+        "curso": "Psicologia",
+        "instituicao": "USP",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -679,9 +1087,19 @@
         "descricao": "Relatório com insights de uso e retenção."
       }
     ],
-    "certificacoes": ["UX-PM Nível 2"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["Pesquisa Quantitativa", "Acessibilidade"]
+    "certificacoes": [
+      "UX-PM Nível 2"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Pesquisa Quantitativa",
+      "Acessibilidade"
+    ]
   },
   {
     "id": 20,
@@ -692,10 +1110,18 @@
     "resumo": "Automação de testes e QA estratégico.",
     "localizacao": "São Paulo/SP",
     "area": "Qualidade",
-    "habilidadesTecnicas": ["JUnit", "Selenium", "Postman"],
+    "habilidadesTecnicas": [
+      "JUnit",
+      "Selenium",
+      "Postman"
+    ],
     "email": "eduardo.mendes@example.com",
     "senha": "senha123",
-    "softSkills": ["Detalhismo", "Comunicação", "Resolução de Problemas"],
+    "softSkills": [
+      "Detalhismo",
+      "Comunicação",
+      "Resolução de Problemas"
+    ],
     "experiencias": [
       {
         "empresa": "TestLab",
@@ -706,7 +1132,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Software", "instituicao": "FIAP", "ano": 2022 }
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
     ],
     "projetos": [
       {
@@ -715,9 +1145,19 @@
         "descricao": "Utilitários para padronização de testes."
       }
     ],
-    "certificacoes": ["ISTQB Advanced"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Testes de Performance", "Qualidade Contínua"]
+    "certificacoes": [
+      "ISTQB Advanced"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Testes de Performance",
+      "Qualidade Contínua"
+    ]
   },
   {
     "id": 21,
@@ -728,10 +1168,18 @@
     "resumo": "Design integrado à estratégia de produto.",
     "localizacao": "Florianópolis/SC",
     "area": "Design",
-    "habilidadesTecnicas": ["Figma", "Design System", "User Flows"],
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design System",
+      "User Flows"
+    ],
     "email": "fabiana.rocha@example.com",
     "senha": "senha123",
-    "softSkills": ["Colaboração", "Comunicação", "Pensamento Crítico"],
+    "softSkills": [
+      "Colaboração",
+      "Comunicação",
+      "Pensamento Crítico"
+    ],
     "experiencias": [
       {
         "empresa": "VisionLab",
@@ -742,7 +1190,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Design de Produto", "instituicao": "UFSC", "ano": 2020 }
+      {
+        "curso": "Design de Produto",
+        "instituicao": "UFSC",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -751,9 +1203,19 @@
         "descricao": "Biblioteca de componentes acessíveis."
       }
     ],
-    "certificacoes": ["UX Design Certificate"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Acessibilidade", "Design Escalável"]
+    "certificacoes": [
+      "UX Design Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Design Escalável"
+    ]
   },
   {
     "id": 22,
@@ -764,10 +1226,18 @@
     "resumo": "Pipelines distribuídos e modelagem otimizada.",
     "localizacao": "São Paulo/SP",
     "area": "Dados",
-    "habilidadesTecnicas": ["Spark", "Airflow", "Python"],
+    "habilidadesTecnicas": [
+      "Spark",
+      "Airflow",
+      "Python"
+    ],
     "email": "gabriel.ramos@example.com",
     "senha": "senha123",
-    "softSkills": ["Resolução de Problemas", "Autonomia", "Colaboração"],
+    "softSkills": [
+      "Resolução de Problemas",
+      "Autonomia",
+      "Colaboração"
+    ],
     "experiencias": [
       {
         "empresa": "DataScale",
@@ -778,7 +1248,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Computação", "instituicao": "UFSCAR", "ano": 2021 }
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "UFSCAR",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -787,9 +1261,19 @@
         "descricao": "Pipeline com monitoramento e retries."
       }
     ],
-    "certificacoes": ["Databricks Data Engineer"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["Data Lakehouse", "Performance"]
+    "certificacoes": [
+      "Databricks Data Engineer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Data Lakehouse",
+      "Performance"
+    ]
   },
   {
     "id": 23,
@@ -800,10 +1284,18 @@
     "resumo": "Análise de métricas e descoberta contínua.",
     "localizacao": "São Paulo/SP",
     "area": "Produto",
-    "habilidadesTecnicas": ["SQL", "Métricas de Produto", "User Stories"],
+    "habilidadesTecnicas": [
+      "SQL",
+      "Métricas de Produto",
+      "User Stories"
+    ],
     "email": "helena.souza@example.com",
     "senha": "senha123",
-    "softSkills": ["Comunicação", "Pensamento Analítico", "Empatia"],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento Analítico",
+      "Empatia"
+    ],
     "experiencias": [
       {
         "empresa": "ProdLab",
@@ -814,7 +1306,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Produção", "instituicao": "UFSC", "ano": 2021 }
+      {
+        "curso": "Engenharia de Produção",
+        "instituicao": "UFSC",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -823,9 +1319,19 @@
         "descricao": "Relatório de conversão por etapa."
       }
     ],
-    "certificacoes": ["Product Analytics"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Descoberta Contínua", "Growth"]
+    "certificacoes": [
+      "Product Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Descoberta Contínua",
+      "Growth"
+    ]
   },
   {
     "id": 24,
@@ -836,10 +1342,18 @@
     "resumo": "Infra como código e observabilidade.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Infraestrutura",
-    "habilidadesTecnicas": ["Ansible", "Prometheus", "Grafana"],
+    "habilidadesTecnicas": [
+      "Ansible",
+      "Prometheus",
+      "Grafana"
+    ],
     "email": "igor.castro@example.com",
     "senha": "senha123",
-    "softSkills": ["Colaboração", "Proatividade", "Resolução de Problemas"],
+    "softSkills": [
+      "Colaboração",
+      "Proatividade",
+      "Resolução de Problemas"
+    ],
     "experiencias": [
       {
         "empresa": "InfraPlus",
@@ -850,7 +1364,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Redes de Computadores", "instituicao": "Estácio", "ano": 2019 }
+      {
+        "curso": "Redes de Computadores",
+        "instituicao": "Estácio",
+        "ano": 2019
+      }
     ],
     "projetos": [
       {
@@ -859,9 +1377,19 @@
         "descricao": "Configuração de métricas e alertas padronizados."
       }
     ],
-    "certificacoes": ["DevOps Foundation"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["SRE", "Automação"]
+    "certificacoes": [
+      "DevOps Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "SRE",
+      "Automação"
+    ]
   },
   {
     "id": 25,
@@ -872,10 +1400,18 @@
     "resumo": "Equilíbrio entre estética e usabilidade.",
     "localizacao": "Salvador/BA",
     "area": "Design",
-    "habilidadesTecnicas": ["Figma", "Wireframes", "Prototipagem"],
+    "habilidadesTecnicas": [
+      "Figma",
+      "Wireframes",
+      "Prototipagem"
+    ],
     "email": "jessica.andrade@example.com",
     "senha": "senha123",
-    "softSkills": ["Criatividade", "Empatia", "Colaboração"],
+    "softSkills": [
+      "Criatividade",
+      "Empatia",
+      "Colaboração"
+    ],
     "experiencias": [
       {
         "empresa": "DesignFlow",
@@ -886,7 +1422,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Design de Interação", "instituicao": "UNIFACS", "ano": 2020 }
+      {
+        "curso": "Design de Interação",
+        "instituicao": "UNIFACS",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -895,9 +1435,19 @@
         "descricao": "Melhorias de usabilidade e acessibilidade."
       }
     ],
-    "certificacoes": ["Google UX Design"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["Acessibilidade", "Design Inclusivo"]
+    "certificacoes": [
+      "Google UX Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Design Inclusivo"
+    ]
   },
   {
     "id": 26,
@@ -908,10 +1458,18 @@
     "resumo": "Interfaces performáticas e responsivas.",
     "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["React", "TypeScript", "Styled Components"],
+    "habilidadesTecnicas": [
+      "React",
+      "TypeScript",
+      "Styled Components"
+    ],
     "email": "kaique.santos@example.com",
     "senha": "senha123",
-    "softSkills": ["Colaboração", "Comunicação", "Organização"],
+    "softSkills": [
+      "Colaboração",
+      "Comunicação",
+      "Organização"
+    ],
     "experiencias": [
       {
         "empresa": "FrontEdge",
@@ -922,7 +1480,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Software", "instituicao": "FIAP", "ano": 2023 }
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
     ],
     "projetos": [
       {
@@ -931,9 +1493,19 @@
         "descricao": "Pacote de componentes acessíveis."
       }
     ],
-    "certificacoes": ["React Advanced"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["Design System", "Acessibilidade"]
+    "certificacoes": [
+      "React Advanced"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Design System",
+      "Acessibilidade"
+    ]
   },
   {
     "id": 27,
@@ -944,10 +1516,18 @@
     "resumo": "Campanhas orientadas a dados.",
     "localizacao": "São Paulo/SP",
     "area": "Marketing",
-    "habilidadesTecnicas": ["Analytics", "Copywriting", "SEO"],
+    "habilidadesTecnicas": [
+      "Analytics",
+      "Copywriting",
+      "SEO"
+    ],
     "email": "larissa.monteiro@example.com",
     "senha": "senha123",
-    "softSkills": ["Comunicação", "Criatividade", "Colaboração"],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Colaboração"
+    ],
     "experiencias": [
       {
         "empresa": "MarketFlow",
@@ -958,7 +1538,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Marketing", "instituicao": "UNIP", "ano": 2021 }
+      {
+        "curso": "Marketing",
+        "instituicao": "UNIP",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -967,9 +1551,19 @@
         "descricao": "Relatório mensal de conversão."
       }
     ],
-    "certificacoes": ["Inbound Marketing"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["Growth", "Automação"]
+    "certificacoes": [
+      "Inbound Marketing"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Growth",
+      "Automação"
+    ]
   },
   {
     "id": 28,
@@ -980,10 +1574,18 @@
     "resumo": "Soluções escaláveis e manuteníveis.",
     "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["Java", "Spring Boot", "Kafka"],
+    "habilidadesTecnicas": [
+      "Java",
+      "Spring Boot",
+      "Kafka"
+    ],
     "email": "marcelo.freitas@example.com",
     "senha": "senha123",
-    "softSkills": ["Foco", "Resolução de Problemas", "Colaboração"],
+    "softSkills": [
+      "Foco",
+      "Resolução de Problemas",
+      "Colaboração"
+    ],
     "experiencias": [
       {
         "empresa": "CoreScale",
@@ -994,7 +1596,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia da Computação", "instituicao": "UNIP", "ano": 2019 }
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "UNIP",
+        "ano": 2019
+      }
     ],
     "projetos": [
       {
@@ -1003,9 +1609,19 @@
         "descricao": "Serviço com consumo assíncrono."
       }
     ],
-    "certificacoes": ["Oracle Java SE"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Arquitetura Distribuída", "DDD"]
+    "certificacoes": [
+      "Oracle Java SE"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura Distribuída",
+      "DDD"
+    ]
   },
   {
     "id": 29,
@@ -1016,10 +1632,18 @@
     "resumo": "Gestão de backlog orientada a valor.",
     "localizacao": "São Paulo/SP",
     "area": "Produto",
-    "habilidadesTecnicas": ["Roadmap", "User Stories", "Prioritização"],
+    "habilidadesTecnicas": [
+      "Roadmap",
+      "User Stories",
+      "Prioritização"
+    ],
     "email": "natalia.pires@example.com",
     "senha": "senha123",
-    "softSkills": ["Liderança", "Comunicação", "Empatia"],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Empatia"
+    ],
     "experiencias": [
       {
         "empresa": "ValueDriven",
@@ -1030,7 +1654,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Administração", "instituicao": "FGV", "ano": 2020 }
+      {
+        "curso": "Administração",
+        "instituicao": "FGV",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -1039,9 +1667,19 @@
         "descricao": "Ferramenta de relacionamento empresarial."
       }
     ],
-    "certificacoes": ["CSPO"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["Discovery", "Métricas"]
+    "certificacoes": [
+      "CSPO"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Discovery",
+      "Métricas"
+    ]
   },
   {
     "id": 30,
@@ -1052,10 +1690,18 @@
     "resumo": "Experiências nativas cross-platform.",
     "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["Flutter", "Dart", "Firebase"],
+    "habilidadesTecnicas": [
+      "Flutter",
+      "Dart",
+      "Firebase"
+    ],
     "email": "otavio.luz@example.com",
     "senha": "senha123",
-    "softSkills": ["Organização", "Colaboração", "Resiliência"],
+    "softSkills": [
+      "Organização",
+      "Colaboração",
+      "Resiliência"
+    ],
     "experiencias": [
       {
         "empresa": "AppCore",
@@ -1066,7 +1712,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Sistemas para Internet", "instituicao": "FIAP", "ano": 2023 }
+      {
+        "curso": "Sistemas para Internet",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
     ],
     "projetos": [
       {
@@ -1075,9 +1725,19 @@
         "descricao": "Aplicativo para pedidos e acompanhamento."
       }
     ],
-    "certificacoes": ["Flutter Developer"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["UI Animada", "Integrações"]
+    "certificacoes": [
+      "Flutter Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "UI Animada",
+      "Integrações"
+    ]
   },
   {
     "id": 31,
@@ -1088,10 +1748,18 @@
     "resumo": "Atendimento técnico e melhoria contínua.",
     "localizacao": "São Paulo/SP",
     "area": "Suporte",
-    "habilidadesTecnicas": ["SQL Básico", "Zendesk", "Documentação"],
+    "habilidadesTecnicas": [
+      "SQL Básico",
+      "Zendesk",
+      "Documentação"
+    ],
     "email": "paula.rezende@example.com",
     "senha": "senha123",
-    "softSkills": ["Empatia", "Comunicação", "Organização"],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Organização"
+    ],
     "experiencias": [
       {
         "empresa": "HelpDeskPro",
@@ -1102,7 +1770,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Gestão de TI", "instituicao": "SENAC", "ano": 2020 }
+      {
+        "curso": "Gestão de TI",
+        "instituicao": "SENAC",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -1111,9 +1783,19 @@
         "descricao": "Centralização de soluções recorrentes."
       }
     ],
-    "certificacoes": ["ITIL Foundation"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["Suporte Nível 2", "Documentação"]
+    "certificacoes": [
+      "ITIL Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Suporte Nível 2",
+      "Documentação"
+    ]
   },
   {
     "id": 32,
@@ -1124,10 +1806,18 @@
     "resumo": "Backend robusto em arquiteturas modulares.",
     "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["C#", ".NET", "SQL Server"],
+    "habilidadesTecnicas": [
+      "C#",
+      ".NET",
+      "SQL Server"
+    ],
     "email": "ricardo.menezes@example.com",
     "senha": "senha123",
-    "softSkills": ["Comunicação", "Resolução de Problemas", "Colaboração"],
+    "softSkills": [
+      "Comunicação",
+      "Resolução de Problemas",
+      "Colaboração"
+    ],
     "experiencias": [
       {
         "empresa": "CoreSystems",
@@ -1138,7 +1828,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Ciência da Computação", "instituicao": "PUC-SP", "ano": 2019 }
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "PUC-SP",
+        "ano": 2019
+      }
     ],
     "projetos": [
       {
@@ -1147,9 +1841,19 @@
         "descricao": "Geração e controle de faturas."
       }
     ],
-    "certificacoes": [".NET Developer"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Arquitetura Limpa", "DDD"]
+    "certificacoes": [
+      ".NET Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura Limpa",
+      "DDD"
+    ]
   },
   {
     "id": 33,
@@ -1160,10 +1864,18 @@
     "resumo": "Iteração contínua baseada em feedback.",
     "localizacao": "Curitiba/PR",
     "area": "Design",
-    "habilidadesTecnicas": ["Figma", "User Flows", "Prototipagem"],
+    "habilidadesTecnicas": [
+      "Figma",
+      "User Flows",
+      "Prototipagem"
+    ],
     "email": "sabrina.teles@example.com",
     "senha": "senha123",
-    "softSkills": ["Empatia", "Comunicação", "Colaboração"],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Colaboração"
+    ],
     "experiencias": [
       {
         "empresa": "FlowDesign",
@@ -1174,7 +1886,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Design de Interface", "instituicao": "UFPR", "ano": 2020 }
+      {
+        "curso": "Design de Interface",
+        "instituicao": "UFPR",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -1183,9 +1899,19 @@
         "descricao": "Visualização intuitiva de KPIs."
       }
     ],
-    "certificacoes": ["UI Advanced"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["Acessibilidade", "Design Data-Driven"]
+    "certificacoes": [
+      "UI Advanced"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Design Data-Driven"
+    ]
   },
   {
     "id": 34,
@@ -1196,10 +1922,18 @@
     "resumo": "Confiabilidade e automação de deploys.",
     "localizacao": "São Paulo/SP",
     "area": "Infraestrutura",
-    "habilidadesTecnicas": ["Kubernetes", "Helm", "CI/CD"],
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Helm",
+      "CI/CD"
+    ],
     "email": "tales.moura@example.com",
     "senha": "senha123",
-    "softSkills": ["Proatividade", "Colaboração", "Resolução de Problemas"],
+    "softSkills": [
+      "Proatividade",
+      "Colaboração",
+      "Resolução de Problemas"
+    ],
     "experiencias": [
       {
         "empresa": "DeployMax",
@@ -1210,7 +1944,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Software", "instituicao": "FIAP", "ano": 2021 }
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -1219,9 +1957,19 @@
         "descricao": "Charts reutilizáveis de serviços internos."
       }
     ],
-    "certificacoes": ["CKAD"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["SRE", "Automação"]
+    "certificacoes": [
+      "CKAD"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "SRE",
+      "Automação"
+    ]
   },
   {
     "id": 35,
@@ -1232,10 +1980,18 @@
     "resumo": "Estruturação de métricas e relatórios executivos.",
     "localizacao": "São Paulo/SP",
     "area": "Dados",
-    "habilidadesTecnicas": ["Power BI", "SQL", "Excel"],
+    "habilidadesTecnicas": [
+      "Power BI",
+      "SQL",
+      "Excel"
+    ],
     "email": "ursula.braga@example.com",
     "senha": "senha123",
-    "softSkills": ["Organização", "Comunicação", "Pensamento Analítico"],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Pensamento Analítico"
+    ],
     "experiencias": [
       {
         "empresa": "DataHub",
@@ -1246,7 +2002,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Administração", "instituicao": "UNIP", "ano": 2021 }
+      {
+        "curso": "Administração",
+        "instituicao": "UNIP",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -1255,9 +2015,19 @@
         "descricao": "Visualização de receitas e custos."
       }
     ],
-    "certificacoes": ["Power BI Analyst"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["BI", "Automação Relatórios"]
+    "certificacoes": [
+      "Power BI Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "BI",
+      "Automação Relatórios"
+    ]
   },
   {
     "id": 36,
@@ -1268,10 +2038,18 @@
     "resumo": "Serviços escaláveis e integrações externas.",
     "localizacao": "Sorocaba/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["Node.js", "Redis", "PostgreSQL"],
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Redis",
+      "PostgreSQL"
+    ],
     "email": "victor.paiva@example.com",
     "senha": "senha123",
-    "softSkills": ["Resolução de Problemas", "Colaboração", "Foco"],
+    "softSkills": [
+      "Resolução de Problemas",
+      "Colaboração",
+      "Foco"
+    ],
     "experiencias": [
       {
         "empresa": "ScaleAPI",
@@ -1282,7 +2060,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Sistemas de Informação", "instituicao": "UNISO", "ano": 2022 }
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UNISO",
+        "ano": 2022
+      }
     ],
     "projetos": [
       {
@@ -1291,9 +2073,19 @@
         "descricao": "Abstração para caching distribuído."
       }
     ],
-    "certificacoes": ["Node.js Professional"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["Performance", "Arquitetura"]
+    "certificacoes": [
+      "Node.js Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Performance",
+      "Arquitetura"
+    ]
   },
   {
     "id": 37,
@@ -1304,10 +2096,18 @@
     "resumo": "Pipelines modernos orientados a eventos.",
     "localizacao": "São Paulo/SP",
     "area": "Dados",
-    "habilidadesTecnicas": ["Kafka", "Spark", "Python"],
+    "habilidadesTecnicas": [
+      "Kafka",
+      "Spark",
+      "Python"
+    ],
     "email": "wesley.araujo@example.com",
     "senha": "senha123",
-    "softSkills": ["Colaboração", "Aprendizado", "Resolução de Problemas"],
+    "softSkills": [
+      "Colaboração",
+      "Aprendizado",
+      "Resolução de Problemas"
+    ],
     "experiencias": [
       {
         "empresa": "StreamData",
@@ -1318,7 +2118,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Computação", "instituicao": "UNINOVE", "ano": 2021 }
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "UNINOVE",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -1327,9 +2131,19 @@
         "descricao": "Processamento de eventos em fluxo."
       }
     ],
-    "certificacoes": ["Kafka Fundamentals"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Data Streaming", "Data Lakehouse"]
+    "certificacoes": [
+      "Kafka Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Data Streaming",
+      "Data Lakehouse"
+    ]
   },
   {
     "id": 38,
@@ -1340,10 +2154,18 @@
     "resumo": "Componentização e performance web.",
     "localizacao": "Niterói/RJ",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["React", "Next.js", "TailwindCSS"],
+    "habilidadesTecnicas": [
+      "React",
+      "Next.js",
+      "TailwindCSS"
+    ],
     "email": "xavier.lopes@example.com",
     "senha": "senha123",
-    "softSkills": ["Comunicação", "Colaboração", "Organização"],
+    "softSkills": [
+      "Comunicação",
+      "Colaboração",
+      "Organização"
+    ],
     "experiencias": [
       {
         "empresa": "WebScale",
@@ -1354,7 +2176,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Software", "instituicao": "UFF", "ano": 2022 }
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFF",
+        "ano": 2022
+      }
     ],
     "projetos": [
       {
@@ -1363,9 +2189,19 @@
         "descricao": "Estrutura inicial otimizada."
       }
     ],
-    "certificacoes": ["Frontend Performance"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["SSG", "Acessibilidade"]
+    "certificacoes": [
+      "Frontend Performance"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "SSG",
+      "Acessibilidade"
+    ]
   },
   {
     "id": 39,
@@ -1376,10 +2212,18 @@
     "resumo": "Análises exploratórias e storytelling.",
     "localizacao": "São Paulo/SP",
     "area": "Dados",
-    "habilidadesTecnicas": ["Python", "Tableau", "SQL"],
+    "habilidadesTecnicas": [
+      "Python",
+      "Tableau",
+      "SQL"
+    ],
     "email": "yasmin.ferreira@example.com",
     "senha": "senha123",
-    "softSkills": ["Comunicação", "Empatia", "Pensamento Analítico"],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Pensamento Analítico"
+    ],
     "experiencias": [
       {
         "empresa": "InsightPro",
@@ -1390,7 +2234,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Administração", "instituicao": "UNESP", "ano": 2021 }
+      {
+        "curso": "Administração",
+        "instituicao": "UNESP",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -1399,9 +2247,19 @@
         "descricao": "Identificação de padrões de evasão."
       }
     ],
-    "certificacoes": ["Tableau Analyst"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["Storytelling", "Data Viz"]
+    "certificacoes": [
+      "Tableau Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Storytelling",
+      "Data Viz"
+    ]
   },
   {
     "id": 40,
@@ -1412,10 +2270,18 @@
     "resumo": "Experiências inclusivas e acessíveis.",
     "localizacao": "São Paulo/SP",
     "area": "Design",
-    "habilidadesTecnicas": ["Figma", "Acessibilidade", "Prototipagem"],
+    "habilidadesTecnicas": [
+      "Figma",
+      "Acessibilidade",
+      "Prototipagem"
+    ],
     "email": "zilda.correia@example.com",
     "senha": "senha123",
-    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Criatividade"
+    ],
     "experiencias": [
       {
         "empresa": "InclusiveTech",
@@ -1426,7 +2292,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Design de Interface", "instituicao": "SENAC", "ano": 2020 }
+      {
+        "curso": "Design de Interface",
+        "instituicao": "SENAC",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -1435,9 +2305,19 @@
         "descricao": "Boas práticas de componentes acessíveis."
       }
     ],
-    "certificacoes": ["A11y Fundamentals"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Inclusão Digital", "Design Ético"]
+    "certificacoes": [
+      "A11y Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão Digital",
+      "Design Ético"
+    ]
   },
   {
     "id": 41,
@@ -1448,10 +2328,18 @@
     "resumo": "Foco em código limpo e manutenção.",
     "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["Python", "FastAPI", "PostgreSQL"],
+    "habilidadesTecnicas": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL"
+    ],
     "email": "alessandro.ribeiro@example.com",
     "senha": "senha123",
-    "softSkills": ["Foco", "Colaboração", "Resolução de Problemas"],
+    "softSkills": [
+      "Foco",
+      "Colaboração",
+      "Resolução de Problemas"
+    ],
     "experiencias": [
       {
         "empresa": "APIWorks",
@@ -1462,7 +2350,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Computação", "instituicao": "Mackenzie", "ano": 2019 }
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "Mackenzie",
+        "ano": 2019
+      }
     ],
     "projetos": [
       {
@@ -1471,9 +2363,19 @@
         "descricao": "Serviço de autenticação com OAuth2."
       }
     ],
-    "certificacoes": ["Python Professional"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["Arquitetura Limpa", "Observabilidade"]
+    "certificacoes": [
+      "Python Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura Limpa",
+      "Observabilidade"
+    ]
   },
   {
     "id": 42,
@@ -1484,10 +2386,18 @@
     "resumo": "Métricas e foco em retenção.",
     "localizacao": "São Paulo/SP",
     "area": "Produto",
-    "habilidadesTecnicas": ["SQL", "Mixpanel", "Roadmap"],
+    "habilidadesTecnicas": [
+      "SQL",
+      "Mixpanel",
+      "Roadmap"
+    ],
     "email": "bianca.leal@example.com",
     "senha": "senha123",
-    "softSkills": ["Comunicação", "Empatia", "Organização"],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Organização"
+    ],
     "experiencias": [
       {
         "empresa": "RetentionLab",
@@ -1498,7 +2408,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Produção", "instituicao": "USP", "ano": 2021 }
+      {
+        "curso": "Engenharia de Produção",
+        "instituicao": "USP",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -1507,9 +2421,19 @@
         "descricao": "Visualização de retenção por período."
       }
     ],
-    "certificacoes": ["Product Analytics"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Retenção", "Growth"]
+    "certificacoes": [
+      "Product Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Retenção",
+      "Growth"
+    ]
   },
   {
     "id": 43,
@@ -1520,10 +2444,18 @@
     "resumo": "Entrega de soluções completas escaláveis.",
     "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["Next.js", "Node.js", "PostgreSQL"],
+    "habilidadesTecnicas": [
+      "Next.js",
+      "Node.js",
+      "PostgreSQL"
+    ],
     "email": "caio.antunes@example.com",
     "senha": "senha123",
-    "softSkills": ["Colaboração", "Foco", "Comunicação"],
+    "softSkills": [
+      "Colaboração",
+      "Foco",
+      "Comunicação"
+    ],
     "experiencias": [
       {
         "empresa": "FullStackLab",
@@ -1534,7 +2466,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Sistemas de Informação", "instituicao": "PUC-SP", "ano": 2022 }
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "PUC-SP",
+        "ano": 2022
+      }
     ],
     "projetos": [
       {
@@ -1543,9 +2479,19 @@
         "descricao": "Sistema de aulas e progresso."
       }
     ],
-    "certificacoes": ["JavaScript Advanced"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Escalabilidade", "Boas Práticas"]
+    "certificacoes": [
+      "JavaScript Advanced"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Escalabilidade",
+      "Boas Práticas"
+    ]
   },
   {
     "id": 44,
@@ -1556,10 +2502,18 @@
     "resumo": "Validação contínua de hipóteses de produto.",
     "localizacao": "São Paulo/SP",
     "area": "Design",
-    "habilidadesTecnicas": ["Pesquisa Qualitativa", "Survey", "Mapas"],
+    "habilidadesTecnicas": [
+      "Pesquisa Qualitativa",
+      "Survey",
+      "Mapas"
+    ],
     "email": "daniele.santana@example.com",
     "senha": "senha123",
-    "softSkills": ["Empatia", "Comunicação", "Pensamento Analítico"],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Pensamento Analítico"
+    ],
     "experiencias": [
       {
         "empresa": "UserLab",
@@ -1570,7 +2524,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Psicologia", "instituicao": "PUC-SP", "ano": 2021 }
+      {
+        "curso": "Psicologia",
+        "instituicao": "PUC-SP",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -1579,9 +2537,19 @@
         "descricao": "Insights e recomendações."
       }
     ],
-    "certificacoes": ["UX-PM"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["Pesquisa Quantitativa", "Acessibilidade"]
+    "certificacoes": [
+      "UX-PM"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Pesquisa Quantitativa",
+      "Acessibilidade"
+    ]
   },
   {
     "id": 45,
@@ -1592,10 +2560,18 @@
     "resumo": "Código limpo e testes automatizados.",
     "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["Ruby", "Rails", "PostgreSQL"],
+    "habilidadesTecnicas": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL"
+    ],
     "email": "erick.gomes@example.com",
     "senha": "senha123",
-    "softSkills": ["Foco", "Colaboração", "Resolução de Problemas"],
+    "softSkills": [
+      "Foco",
+      "Colaboração",
+      "Resolução de Problemas"
+    ],
     "experiencias": [
       {
         "empresa": "AppRails",
@@ -1606,7 +2582,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Sistemas de Informação", "instituicao": "UNIP", "ano": 2020 }
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UNIP",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -1615,9 +2595,19 @@
         "descricao": "Gestão de cobrança recorrente."
       }
     ],
-    "certificacoes": ["Ruby Developer"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["Refatoração", "Boas Práticas"]
+    "certificacoes": [
+      "Ruby Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Refatoração",
+      "Boas Práticas"
+    ]
   },
   {
     "id": 46,
@@ -1628,10 +2618,18 @@
     "resumo": "KPI e relatórios de desempenho.",
     "localizacao": "São Paulo/SP",
     "area": "Dados",
-    "habilidadesTecnicas": ["Excel", "SQL", "Power BI"],
+    "habilidadesTecnicas": [
+      "Excel",
+      "SQL",
+      "Power BI"
+    ],
     "email": "flavia.torres@example.com",
     "senha": "senha123",
-    "softSkills": ["Organização", "Comunicação", "Detalhismo"],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Detalhismo"
+    ],
     "experiencias": [
       {
         "empresa": "MetricHub",
@@ -1642,7 +2640,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Administração", "instituicao": "Mackenzie", "ano": 2021 }
+      {
+        "curso": "Administração",
+        "instituicao": "Mackenzie",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -1651,9 +2653,19 @@
         "descricao": "Análise de receitas e margens."
       }
     ],
-    "certificacoes": ["Data Analysis Essentials"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["BI", "Automação"]
+    "certificacoes": [
+      "Data Analysis Essentials"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "BI",
+      "Automação"
+    ]
   },
   {
     "id": 47,
@@ -1664,10 +2676,18 @@
     "resumo": "Design centrado em dados e métricas.",
     "localizacao": "São Paulo/SP",
     "area": "Design",
-    "habilidadesTecnicas": ["Figma", "Design System", "Prototipagem"],
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design System",
+      "Prototipagem"
+    ],
     "email": "gisele.moraes@example.com",
     "senha": "senha123",
-    "softSkills": ["Empatia", "Criatividade", "Comunicação"],
+    "softSkills": [
+      "Empatia",
+      "Criatividade",
+      "Comunicação"
+    ],
     "experiencias": [
       {
         "empresa": "DesignOps",
@@ -1678,7 +2698,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Design de Produto", "instituicao": "PUC-SP", "ano": 2020 }
+      {
+        "curso": "Design de Produto",
+        "instituicao": "PUC-SP",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -1687,9 +2711,19 @@
         "descricao": "Estrutura de tokens escalável."
       }
     ],
-    "certificacoes": ["Design System Specialist"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Escalabilidade", "Acessibilidade"]
+    "certificacoes": [
+      "Design System Specialist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Escalabilidade",
+      "Acessibilidade"
+    ]
   },
   {
     "id": 48,
@@ -1700,10 +2734,18 @@
     "resumo": "Integrações e performance de serviços.",
     "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["Node.js", "RabbitMQ", "MongoDB"],
+    "habilidadesTecnicas": [
+      "Node.js",
+      "RabbitMQ",
+      "MongoDB"
+    ],
     "email": "henrique.pires@example.com",
     "senha": "senha123",
-    "softSkills": ["Foco", "Resolução de Problemas", "Colaboração"],
+    "softSkills": [
+      "Foco",
+      "Resolução de Problemas",
+      "Colaboração"
+    ],
     "experiencias": [
       {
         "empresa": "QueueLab",
@@ -1714,7 +2756,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Software", "instituicao": "FIAP", "ano": 2023 }
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
     ],
     "projetos": [
       {
@@ -1723,9 +2769,19 @@
         "descricao": "Worker para processamento em lote."
       }
     ],
-    "certificacoes": ["Node Advanced"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["Mensageria", "Escalabilidade"]
+    "certificacoes": [
+      "Node Advanced"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Mensageria",
+      "Escalabilidade"
+    ]
   },
   {
     "id": 49,
@@ -1736,10 +2792,18 @@
     "resumo": "Design centrado em acessibilidade.",
     "localizacao": "São Paulo/SP",
     "area": "Design",
-    "habilidadesTecnicas": ["WCAG", "Figma", "Prototipagem"],
+    "habilidadesTecnicas": [
+      "WCAG",
+      "Figma",
+      "Prototipagem"
+    ],
     "email": "isabela.cunha@example.com",
     "senha": "senha123",
-    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Criatividade"
+    ],
     "experiencias": [
       {
         "empresa": "AccessLab",
@@ -1750,7 +2814,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Design UX", "instituicao": "SENAC", "ano": 2020 }
+      {
+        "curso": "Design UX",
+        "instituicao": "SENAC",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -1759,9 +2827,19 @@
         "descricao": "Referências de acessibilidade."
       }
     ],
-    "certificacoes": ["Acessibilidade Web"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Inclusão Digital", "Design Ético"]
+    "certificacoes": [
+      "Acessibilidade Web"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão Digital",
+      "Design Ético"
+    ]
   },
   {
     "id": 50,
@@ -1772,10 +2850,18 @@
     "resumo": "Foco em métricas e evolução de módulos.",
     "localizacao": "São Paulo/SP",
     "area": "Produto",
-    "habilidadesTecnicas": ["SQL", "Roadmap", "User Stories"],
+    "habilidadesTecnicas": [
+      "SQL",
+      "Roadmap",
+      "User Stories"
+    ],
     "email": "joana.marques@example.com",
     "senha": "senha123",
-    "softSkills": ["Comunicação", "Empatia", "Organização"],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Organização"
+    ],
     "experiencias": [
       {
         "empresa": "ProdScale",
@@ -1786,7 +2872,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Administração", "instituicao": "FGV", "ano": 2021 }
+      {
+        "curso": "Administração",
+        "instituicao": "FGV",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -1795,9 +2885,19 @@
         "descricao": "Gestão de planos e upgrades."
       }
     ],
-    "certificacoes": ["Product Metrics"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["Métricas", "Retenção"]
+    "certificacoes": [
+      "Product Metrics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Métricas",
+      "Retenção"
+    ]
   },
   {
     "id": 51,
@@ -1808,10 +2908,18 @@
     "resumo": "Design e prototipagem centrados no usuário.",
     "localizacao": "São Paulo/SP",
     "area": "Design",
-    "habilidadesTecnicas": ["Figma", "User Flow", "Design System"],
+    "habilidadesTecnicas": [
+      "Figma",
+      "User Flow",
+      "Design System"
+    ],
     "email": "karen.siqueira@example.com",
     "senha": "senha123",
-    "softSkills": ["Empatia", "Colaboração", "Criatividade"],
+    "softSkills": [
+      "Empatia",
+      "Colaboração",
+      "Criatividade"
+    ],
     "experiencias": [
       {
         "empresa": "ProtoLab",
@@ -1822,7 +2930,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Design Digital", "instituicao": "PUC-SP", "ano": 2020 }
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-SP",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -1831,9 +2943,19 @@
         "descricao": "Padronização de estilo multi-plataforma."
       }
     ],
-    "certificacoes": ["Design System Advanced"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Acessibilidade", "Escalabilidade"]
+    "certificacoes": [
+      "Design System Advanced"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Escalabilidade"
+    ]
   },
   {
     "id": 52,
@@ -1844,10 +2966,18 @@
     "resumo": "Integrações e arquitetura modular.",
     "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["Java", "Spring", "RabbitMQ"],
+    "habilidadesTecnicas": [
+      "Java",
+      "Spring",
+      "RabbitMQ"
+    ],
     "email": "leandro.matos@example.com",
     "senha": "senha123",
-    "softSkills": ["Resolução de Problemas", "Foco", "Colaboração"],
+    "softSkills": [
+      "Resolução de Problemas",
+      "Foco",
+      "Colaboração"
+    ],
     "experiencias": [
       {
         "empresa": "EnterpriseApps",
@@ -1858,7 +2988,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia da Computação", "instituicao": "USP", "ano": 2019 }
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "USP",
+        "ano": 2019
+      }
     ],
     "projetos": [
       {
@@ -1867,9 +3001,19 @@
         "descricao": "Cobrança e notas fiscais."
       }
     ],
-    "certificacoes": ["Spring Professional"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["Arquitetura", "Escalabilidade"]
+    "certificacoes": [
+      "Spring Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura",
+      "Escalabilidade"
+    ]
   },
   {
     "id": 53,
@@ -1880,10 +3024,18 @@
     "resumo": "Campanhas de aquisição e retenção.",
     "localizacao": "São Paulo/SP",
     "area": "Marketing",
-    "habilidadesTecnicas": ["Google Ads", "Analytics", "SEO"],
+    "habilidadesTecnicas": [
+      "Google Ads",
+      "Analytics",
+      "SEO"
+    ],
     "email": "marta.oliveira@example.com",
     "senha": "senha123",
-    "softSkills": ["Comunicação", "Criatividade", "Organização"],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Organização"
+    ],
     "experiencias": [
       {
         "empresa": "AdGrowth",
@@ -1894,7 +3046,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Marketing Digital", "instituicao": "ESPM", "ano": 2021 }
+      {
+        "curso": "Marketing Digital",
+        "instituicao": "ESPM",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -1903,9 +3059,19 @@
         "descricao": "Plano de mídia e relatórios."
       }
     ],
-    "certificacoes": ["Google Ads Certification"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["Growth", "Automação"]
+    "certificacoes": [
+      "Google Ads Certification"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Growth",
+      "Automação"
+    ]
   },
   {
     "id": 54,
@@ -1916,10 +3082,18 @@
     "resumo": "Serviços resilientes e testes robustos.",
     "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["Python", "Django", "Redis"],
+    "habilidadesTecnicas": [
+      "Python",
+      "Django",
+      "Redis"
+    ],
     "email": "nicolas.andrade@example.com",
     "senha": "senha123",
-    "softSkills": ["Foco", "Colaboração", "Resolução de Problemas"],
+    "softSkills": [
+      "Foco",
+      "Colaboração",
+      "Resolução de Problemas"
+    ],
     "experiencias": [
       {
         "empresa": "ResilientApps",
@@ -1930,7 +3104,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Ciência da Computação", "instituicao": "PUC-SP", "ano": 2020 }
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "PUC-SP",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -1939,9 +3117,19 @@
         "descricao": "Envio assíncrono de notificações."
       }
     ],
-    "certificacoes": ["Python Advanced"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Escalabilidade", "Observabilidade"]
+    "certificacoes": [
+      "Python Advanced"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Escalabilidade",
+      "Observabilidade"
+    ]
   },
   {
     "id": 55,
@@ -1952,10 +3140,18 @@
     "resumo": "Priorização orientada a valor e métricas.",
     "localizacao": "São Paulo/SP",
     "area": "Produto",
-    "habilidadesTecnicas": ["Roadmap", "Métricas", "User Stories"],
+    "habilidadesTecnicas": [
+      "Roadmap",
+      "Métricas",
+      "User Stories"
+    ],
     "email": "olivia.nunes@example.com",
     "senha": "senha123",
-    "softSkills": ["Comunicação", "Empatia", "Liderança"],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Liderança"
+    ],
     "experiencias": [
       {
         "empresa": "ValueTrack",
@@ -1966,7 +3162,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Administração", "instituicao": "FGV", "ano": 2021 }
+      {
+        "curso": "Administração",
+        "instituicao": "FGV",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -1975,9 +3175,19 @@
         "descricao": "Ferramenta de controle operacional."
       }
     ],
-    "certificacoes": ["CSPO"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["Discovery", "Retenção"]
+    "certificacoes": [
+      "CSPO"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Discovery",
+      "Retenção"
+    ]
   },
   {
     "id": 56,
@@ -1988,10 +3198,18 @@
     "resumo": "Pipelines escaláveis e confiáveis.",
     "localizacao": "São Paulo/SP",
     "area": "Dados",
-    "habilidadesTecnicas": ["Airflow", "Spark", "Python"],
+    "habilidadesTecnicas": [
+      "Airflow",
+      "Spark",
+      "Python"
+    ],
     "email": "paulo.vieira@example.com",
     "senha": "senha123",
-    "softSkills": ["Foco", "Colaboração", "Resolução de Problemas"],
+    "softSkills": [
+      "Foco",
+      "Colaboração",
+      "Resolução de Problemas"
+    ],
     "experiencias": [
       {
         "empresa": "DataWorks",
@@ -2002,7 +3220,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Computação", "instituicao": "UNICAMP", "ano": 2021 }
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -2011,9 +3233,19 @@
         "descricao": "Processamento diário de dados financeiros."
       }
     ],
-    "certificacoes": ["Data Engineer Associate"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
-    "areaInteresses": ["Data Quality", "Streaming"]
+    "certificacoes": [
+      "Data Engineer Associate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Data Quality",
+      "Streaming"
+    ]
   },
   {
     "id": 57,
@@ -2024,10 +3256,18 @@
     "resumo": "Testes e garantia de qualidade contínua.",
     "localizacao": "São Paulo/SP",
     "area": "Qualidade",
-    "habilidadesTecnicas": ["Cypress", "Postman", "Git"],
+    "habilidadesTecnicas": [
+      "Cypress",
+      "Postman",
+      "Git"
+    ],
     "email": "queila.damasceno@example.com",
     "senha": "senha123",
-    "softSkills": ["Detalhismo", "Comunicação", "Colaboração"],
+    "softSkills": [
+      "Detalhismo",
+      "Comunicação",
+      "Colaboração"
+    ],
     "experiencias": [
       {
         "empresa": "QualityWorks",
@@ -2038,7 +3278,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Sistemas de Informação", "instituicao": "UNIP", "ano": 2021 }
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UNIP",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -2047,9 +3291,19 @@
         "descricao": "Automação de cenários principais."
       }
     ],
-    "certificacoes": ["ISTQB Foundation"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Básico" }],
-    "areaInteresses": ["Automação", "Qualidade Contínua"]
+    "certificacoes": [
+      "ISTQB Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "Qualidade Contínua"
+    ]
   },
   {
     "id": 58,
@@ -2060,10 +3314,18 @@
     "resumo": "Automação e confiabilidade de ambientes.",
     "localizacao": "São Paulo/SP",
     "area": "Infraestrutura",
-    "habilidadesTecnicas": ["Docker", "Kubernetes", "Grafana"],
+    "habilidadesTecnicas": [
+      "Docker",
+      "Kubernetes",
+      "Grafana"
+    ],
     "email": "renato.barbosa@example.com",
     "senha": "senha123",
-    "softSkills": ["Proatividade", "Colaboração", "Resolução de Problemas"],
+    "softSkills": [
+      "Proatividade",
+      "Colaboração",
+      "Resolução de Problemas"
+    ],
     "experiencias": [
       {
         "empresa": "InfraScale",
@@ -2074,7 +3336,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Redes de Computadores", "instituicao": "SENAC", "ano": 2020 }
+      {
+        "curso": "Redes de Computadores",
+        "instituicao": "SENAC",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -2083,9 +3349,19 @@
         "descricao": "Templates de métricas e alertas."
       }
     ],
-    "certificacoes": ["CKA"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["SRE", "Automação"]
+    "certificacoes": [
+      "CKA"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "SRE",
+      "Automação"
+    ]
   },
   {
     "id": 59,
@@ -2096,10 +3372,18 @@
     "resumo": "Evolução de funcionalidades com foco em uso real.",
     "localizacao": "São Paulo/SP",
     "area": "Produto",
-    "habilidadesTecnicas": ["SQL", "Roadmap", "KPIs"],
+    "habilidadesTecnicas": [
+      "SQL",
+      "Roadmap",
+      "KPIs"
+    ],
     "email": "silvia.porto@example.com",
     "senha": "senha123",
-    "softSkills": ["Comunicação", "Empatia", "Organização"],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Organização"
+    ],
     "experiencias": [
       {
         "empresa": "ProdInsight",
@@ -2110,7 +3394,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Administração", "instituicao": "UNIP", "ano": 2021 }
+      {
+        "curso": "Administração",
+        "instituicao": "UNIP",
+        "ano": 2021
+      }
     ],
     "projetos": [
       {
@@ -2119,9 +3407,19 @@
         "descricao": "Central de relatórios corporativos."
       }
     ],
-    "certificacoes": ["Product Analytics"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Métricas", "Retenção"]
+    "certificacoes": [
+      "Product Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Métricas",
+      "Retenção"
+    ]
   },
   {
     "id": 60,
@@ -2132,10 +3430,18 @@
     "resumo": "Boas práticas e escalabilidade em serviços.",
     "localizacao": "São Paulo/SP",
     "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["Go", "PostgreSQL", "Docker"],
+    "habilidadesTecnicas": [
+      "Go",
+      "PostgreSQL",
+      "Docker"
+    ],
     "email": "tiago.figueiredo@example.com",
     "senha": "senha123",
-    "softSkills": ["Foco", "Colaboração", "Resolução de Problemas"],
+    "softSkills": [
+      "Foco",
+      "Colaboração",
+      "Resolução de Problemas"
+    ],
     "experiencias": [
       {
         "empresa": "ScaleCore",
@@ -2146,7 +3452,11 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Computação", "instituicao": "PUC-SP", "ano": 2020 }
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "PUC-SP",
+        "ano": 2020
+      }
     ],
     "projetos": [
       {
@@ -2155,9 +3465,19 @@
         "descricao": "Coleta e exposição de métricas."
       }
     ],
-    "certificacoes": ["Go Developer"],
-    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
-    "areaInteresses": ["Observabilidade", "Arquitetura"]
+    "certificacoes": [
+      "Go Developer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Observabilidade",
+      "Arquitetura"
+    ]
   }
 ]
 
