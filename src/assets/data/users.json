@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nome": "Laura Fernandes",
-    "foto": null,
+    "foto": "/users-img/user-2.webp",
     "cargo": "Desenvolvedora Front-End",
     "telefone": "11940129027",
     "resumo": "Especialista em interfaces modernas e acessíveis.",
@@ -60,7 +60,7 @@
   {
     "id": 2,
     "nome": "Pedro Almeida",
-    "foto": null,
+    "foto": "/users-img/user-1.jpeg",
     "cargo": "Desenvolvedor Back-End",
     "telefone": "11945012011",
     "resumo": "Focado em APIs escaláveis e microsserviços.",
@@ -118,7 +118,7 @@
   {
     "id": 3,
     "nome": "Mariana Costa",
-    "foto": null,
+    "foto": "/users-img/user-4.jpeg",
     "cargo": "UX Designer",
     "telefone": "11941003022",
     "resumo": "Cria experiências centradas no usuário para produtos digitais.",
@@ -176,7 +176,7 @@
   {
     "id": 4,
     "nome": "Gustavo Henrique",
-    "foto": null,
+    "foto": "/users-img/user-3.webp",
     "cargo": "Data Analyst",
     "telefone": "11940022019",
     "resumo": "Transforma dados em insights acionáveis.",
@@ -234,7 +234,7 @@
   {
     "id": 5,
     "nome": "Beatriz Moreira",
-    "foto": null,
+    "foto": "/users-img/user-6.jpg",
     "cargo": "Product Owner",
     "telefone": "11943011877",
     "resumo": "Foco em alinhamento estratégico de produto.",
@@ -292,7 +292,7 @@
   {
     "id": 6,
     "nome": "Rafael Silva",
-    "foto": null,
+    "foto": "/users-img/user-5.webp",
     "cargo": "DevOps Engineer",
     "telefone": "11948011234",
     "resumo": "Automação e confiabilidade em pipelines de entrega contínua.",
@@ -350,7 +350,7 @@
   {
     "id": 7,
     "nome": "Camila Rezende",
-    "foto": null,
+    "foto": "/users-img/user-8.jpg",
     "cargo": "QA Engineer",
     "telefone": "11947033456",
     "resumo": "Garantia de qualidade com foco em testes automatizados.",
@@ -408,7 +408,7 @@
   {
     "id": 8,
     "nome": "Lucas Pereira",
-    "foto": null,
+    "foto": "/users-img/user-7.jpeg",
     "cargo": "Mobile Developer",
     "telefone": "11949567890",
     "resumo": "Criação de apps híbridos performáticos.",
@@ -466,7 +466,7 @@
   {
     "id": 9,
     "nome": "Fernanda Lima",
-    "foto": null,
+    "foto": "/users-img/user-10.jpg",
     "cargo": "UI Designer",
     "telefone": "11946098765",
     "resumo": "Criação de interfaces limpas e consistentes.",
@@ -524,7 +524,7 @@
   {
     "id": 10,
     "nome": "Thiago Rocha",
-    "foto": null,
+    "foto": "/users-img/user-9.jpg",
     "cargo": "Full-Stack Developer",
     "telefone": "11949911223",
     "resumo": "Atuação ponta a ponta em arquitetura e implementação.",
@@ -582,7 +582,7 @@
   {
     "id": 11,
     "nome": "Juliana Martins",
-    "foto": null,
+    "foto": "/users-img/user-2.webp",
     "cargo": "Data Scientist",
     "telefone": "11948877665",
     "resumo": "Modelagem preditiva e análise avançada.",
@@ -640,7 +640,7 @@
   {
     "id": 12,
     "nome": "André Oliveira",
-    "foto": null,
+    "foto": "/users-img/user-1.jpeg",
     "cargo": "Security Analyst",
     "telefone": "11947766554",
     "resumo": "Monitoramento e mitigação de vulnerabilidades.",
@@ -698,7 +698,7 @@
   {
     "id": 13,
     "nome": "Patrícia Duarte",
-    "foto": null,
+    "foto": "/users-img/user-4.jpeg",
     "cargo": "Scrum Master",
     "telefone": "11946655443",
     "resumo": "Facilitação de times ágeis e remoção de impedimentos.",
@@ -756,7 +756,7 @@
   {
     "id": 14,
     "nome": "Felipe Cardoso",
-    "foto": null,
+    "foto": "/users-img/user-3.webp",
     "cargo": "Cloud Architect",
     "telefone": "11945544332",
     "resumo": "Arquiteturas escaláveis em nuvem pública.",
@@ -814,7 +814,7 @@
   {
     "id": 15,
     "nome": "Sofia Nogueira",
-    "foto": null,
+    "foto": "/users-img/user-6.jpg",
     "cargo": "Marketing Digital",
     "telefone": "11944433221",
     "resumo": "Estratégias de conteúdo e aquisição orgânica.",
@@ -872,7 +872,7 @@
   {
     "id": 16,
     "nome": "João Barros",
-    "foto": null,
+    "foto": "/users-img/user-5.webp",
     "cargo": "Desenvolvedor Back-End",
     "telefone": "11943322110",
     "resumo": "APIs robustas em ambientes de alta carga.",
@@ -930,7 +930,7 @@
   {
     "id": 17,
     "nome": "Letícia Prado",
-    "foto": null,
+    "foto": "/users-img/user-8.jpg",
     "cargo": "Analista de Dados",
     "telefone": "11942211009",
     "resumo": "Dashboards para suporte à decisão.",
@@ -988,7 +988,7 @@
   {
     "id": 18,
     "nome": "Bruno Teixeira",
-    "foto": null,
+    "foto": "/users-img/user-7.jpeg",
     "cargo": "Desenvolvedor Full-Stack",
     "telefone": "11941100998",
     "resumo": "Integrações e soluções web completas.",
@@ -1046,7 +1046,7 @@
   {
     "id": 19,
     "nome": "Carolina Farias",
-    "foto": null,
+    "foto": "/users-img/user-10.jpg",
     "cargo": "UX Researcher",
     "telefone": "11940099887",
     "resumo": "Pesquisa e validação centrada no usuário.",
@@ -1104,7 +1104,7 @@
   {
     "id": 20,
     "nome": "Eduardo Mendes",
-    "foto": null,
+    "foto": "/users-img/user-9.jpg",
     "cargo": "Engenheiro de Testes",
     "telefone": "11949988776",
     "resumo": "Automação de testes e QA estratégico.",
@@ -1162,7 +1162,7 @@
   {
     "id": 21,
     "nome": "Fabiana Rocha",
-    "foto": null,
+    "foto": "/users-img/user-2.webp",
     "cargo": "Product Designer",
     "telefone": "11948877654",
     "resumo": "Design integrado à estratégia de produto.",
@@ -1220,7 +1220,7 @@
   {
     "id": 22,
     "nome": "Gabriel Ramos",
-    "foto": null,
+    "foto": "/users-img/user-1.jpeg",
     "cargo": "Engenheiro de Dados",
     "telefone": "11947766543",
     "resumo": "Pipelines distribuídos e modelagem otimizada.",
@@ -1278,7 +1278,7 @@
   {
     "id": 23,
     "nome": "Helena Souza",
-    "foto": null,
+    "foto": "/users-img/user-4.jpeg",
     "cargo": "Analista de Produto",
     "telefone": "11946655432",
     "resumo": "Análise de métricas e descoberta contínua.",
@@ -1336,7 +1336,7 @@
   {
     "id": 24,
     "nome": "Igor Castro",
-    "foto": null,
+    "foto": "/users-img/user-3.webp",
     "cargo": "DevOps Engineer",
     "telefone": "11945544321",
     "resumo": "Infra como código e observabilidade.",
@@ -1394,7 +1394,7 @@
   {
     "id": 25,
     "nome": "Jéssica Andrade",
-    "foto": null,
+    "foto": "/users-img/user-6.jpg",
     "cargo": "UI/UX Designer",
     "telefone": "11944433210",
     "resumo": "Equilíbrio entre estética e usabilidade.",
@@ -1452,7 +1452,7 @@
   {
     "id": 26,
     "nome": "Kaique Santos",
-    "foto": null,
+    "foto": "/users-img/user-5.webp",
     "cargo": "Desenvolvedor Front-End",
     "telefone": "11943322109",
     "resumo": "Interfaces performáticas e responsivas.",
@@ -1510,7 +1510,7 @@
   {
     "id": 27,
     "nome": "Larissa Monteiro",
-    "foto": null,
+    "foto": "/users-img/user-8.jpg",
     "cargo": "Analista de Marketing",
     "telefone": "11942211008",
     "resumo": "Campanhas orientadas a dados.",
@@ -1568,7 +1568,7 @@
   {
     "id": 28,
     "nome": "Marcelo Freitas",
-    "foto": null,
+    "foto": "/users-img/user-7.jpeg",
     "cargo": "Engenheiro de Software",
     "telefone": "11941100997",
     "resumo": "Soluções escaláveis e manuteníveis.",
@@ -1626,7 +1626,7 @@
   {
     "id": 29,
     "nome": "Natália Pires",
-    "foto": null,
+    "foto": "/users-img/user-10.jpg",
     "cargo": "Product Owner",
     "telefone": "11940099876",
     "resumo": "Gestão de backlog orientada a valor.",
@@ -1684,7 +1684,7 @@
   {
     "id": 30,
     "nome": "Otávio Luz",
-    "foto": null,
+    "foto": "/users-img/user-9.jpg",
     "cargo": "Desenvolvedor Mobile",
     "telefone": "11949988775",
     "resumo": "Experiências nativas cross-platform.",
@@ -1742,7 +1742,7 @@
   {
     "id": 31,
     "nome": "Paula Rezende",
-    "foto": null,
+    "foto": "/users-img/user-2.webp",
     "cargo": "Analista de Suporte",
     "telefone": "11948877653",
     "resumo": "Atendimento técnico e melhoria contínua.",
@@ -1800,7 +1800,7 @@
   {
     "id": 32,
     "nome": "Ricardo Menezes",
-    "foto": null,
+    "foto": "/users-img/user-1.jpeg",
     "cargo": "Engenheiro de Software",
     "telefone": "11947766532",
     "resumo": "Backend robusto em arquiteturas modulares.",
@@ -1858,7 +1858,7 @@
   {
     "id": 33,
     "nome": "Sabrina Teles",
-    "foto": null,
+    "foto": "/users-img/user-4.jpeg",
     "cargo": "Designer de Produto",
     "telefone": "11946655421",
     "resumo": "Iteração contínua baseada em feedback.",
@@ -1916,7 +1916,7 @@
   {
     "id": 34,
     "nome": "Tales Moura",
-    "foto": null,
+    "foto": "/users-img/user-3.webp",
     "cargo": "Engenheiro DevOps",
     "telefone": "11945544311",
     "resumo": "Confiabilidade e automação de deploys.",
@@ -1974,7 +1974,7 @@
   {
     "id": 35,
     "nome": "Ursula Braga",
-    "foto": null,
+    "foto": "/users-img/user-6.jpg",
     "cargo": "Analista de Dados",
     "telefone": "11944433209",
     "resumo": "Estruturação de métricas e relatórios executivos.",
@@ -2032,7 +2032,7 @@
   {
     "id": 36,
     "nome": "Victor Paiva",
-    "foto": null,
+    "foto": "/users-img/user-5.webp",
     "cargo": "Desenvolvedor Back-End",
     "telefone": "11943322108",
     "resumo": "Serviços escaláveis e integrações externas.",
@@ -2090,7 +2090,7 @@
   {
     "id": 37,
     "nome": "Wesley Araujo",
-    "foto": null,
+    "foto": "/users-img/user-8.jpg",
     "cargo": "Engenheiro de Dados",
     "telefone": "11942211007",
     "resumo": "Pipelines modernos orientados a eventos.",
@@ -2148,7 +2148,7 @@
   {
     "id": 38,
     "nome": "Xavier Lopes",
-    "foto": null,
+    "foto": "/users-img/user-9.jpg",
     "cargo": "Desenvolvedor Front-End",
     "telefone": "11941100996",
     "resumo": "Componentização e performance web.",
@@ -2206,7 +2206,7 @@
   {
     "id": 39,
     "nome": "Yasmin Ferreira",
-    "foto": null,
+    "foto": "/users-img/user-8.jpg",
     "cargo": "Data Analyst",
     "telefone": "11940099865",
     "resumo": "Análises exploratórias e storytelling.",
@@ -2264,7 +2264,7 @@
   {
     "id": 40,
     "nome": "Zilda Correia",
-    "foto": null,
+    "foto": "/users-img/user-10.jpg",
     "cargo": "UX Designer",
     "telefone": "11949988764",
     "resumo": "Experiências inclusivas e acessíveis.",
@@ -2322,7 +2322,7 @@
   {
     "id": 41,
     "nome": "Alessandro Ribeiro",
-    "foto": null,
+    "foto": "/users-img/user-1.jpeg",
     "cargo": "Engenheiro de Software",
     "telefone": "11948877642",
     "resumo": "Foco em código limpo e manutenção.",
@@ -2380,7 +2380,7 @@
   {
     "id": 42,
     "nome": "Bianca Leal",
-    "foto": null,
+    "foto": "/users-img/user-2.webp",
     "cargo": "Analista de Produto",
     "telefone": "11947766531",
     "resumo": "Métricas e foco em retenção.",
@@ -2438,7 +2438,7 @@
   {
     "id": 43,
     "nome": "Caio Antunes",
-    "foto": null,
+    "foto": "/users-img/user-3.webp",
     "cargo": "Desenvolvedor Full-Stack",
     "telefone": "11946655420",
     "resumo": "Entrega de soluções completas escaláveis.",
@@ -2496,7 +2496,7 @@
   {
     "id": 44,
     "nome": "Daniele Santana",
-    "foto": null,
+    "foto": "/users-img/user-4.jpeg",
     "cargo": "UX Researcher",
     "telefone": "11945544310",
     "resumo": "Validação contínua de hipóteses de produto.",
@@ -2554,7 +2554,7 @@
   {
     "id": 45,
     "nome": "Erick Gomes",
-    "foto": null,
+    "foto": "/users-img/user-5.webp",
     "cargo": "Engenheiro de Software",
     "telefone": "11944433208",
     "resumo": "Código limpo e testes automatizados.",
@@ -2612,7 +2612,7 @@
   {
     "id": 46,
     "nome": "Flávia Torres",
-    "foto": null,
+    "foto": "/users-img/user-3.webp",
     "cargo": "Analista de Dados",
     "telefone": "11943322107",
     "resumo": "KPI e relatórios de desempenho.",
@@ -2670,7 +2670,7 @@
   {
     "id": 47,
     "nome": "Gisele Moraes",
-    "foto": null,
+    "foto": "/users-img/user-8.jpg",
     "cargo": "Product Designer",
     "telefone": "11942211006",
     "resumo": "Design centrado em dados e métricas.",
@@ -2728,7 +2728,7 @@
   {
     "id": 48,
     "nome": "Henrique Pires",
-    "foto": null,
+    "foto": "/users-img/user-7.jpeg",
     "cargo": "Desenvolvedor Back-End",
     "telefone": "11941100995",
     "resumo": "Integrações e performance de serviços.",
@@ -2786,7 +2786,7 @@
   {
     "id": 49,
     "nome": "Isabela Cunha",
-    "foto": null,
+    "foto": "/users-img/user-10.jpg",
     "cargo": "UX Designer",
     "telefone": "11940099854",
     "resumo": "Design centrado em acessibilidade.",
@@ -2844,7 +2844,7 @@
   {
     "id": 50,
     "nome": "Joana Marques",
-    "foto": null,
+    "foto": "/users-img/user-2.webp",
     "cargo": "Analista de Produto",
     "telefone": "11949988753",
     "resumo": "Foco em métricas e evolução de módulos.",
@@ -2902,7 +2902,7 @@
   {
     "id": 51,
     "nome": "Karen Siqueira",
-    "foto": null,
+    "foto": "/users-img/user-4.jpeg",
     "cargo": "Product Designer",
     "telefone": "11948877641",
     "resumo": "Design e prototipagem centrados no usuário.",
@@ -2960,7 +2960,7 @@
   {
     "id": 52,
     "nome": "Leandro Matos",
-    "foto": null,
+    "foto": "/users-img/user-9.jpg",
     "cargo": "Engenheiro de Software",
     "telefone": "11947766530",
     "resumo": "Integrações e arquitetura modular.",
@@ -3018,7 +3018,7 @@
   {
     "id": 53,
     "nome": "Marta Oliveira",
-    "foto": null,
+    "foto": "/users-img/user-6.jpg",
     "cargo": "Analista de Marketing",
     "telefone": "11946655419",
     "resumo": "Campanhas de aquisição e retenção.",
@@ -3076,7 +3076,7 @@
   {
     "id": 54,
     "nome": "Nicolas Andrade",
-    "foto": null,
+    "foto": "/users-img/user-1.jpeg",
     "cargo": "Desenvolvedor Back-End",
     "telefone": "11945544300",
     "resumo": "Serviços resilientes e testes robustos.",
@@ -3134,7 +3134,7 @@
   {
     "id": 55,
     "nome": "Olívia Nunes",
-    "foto": null,
+    "foto": "/users-img/user-6.jpg",
     "cargo": "Product Owner",
     "telefone": "11944433207",
     "resumo": "Priorização orientada a valor e métricas.",
@@ -3192,7 +3192,7 @@
   {
     "id": 56,
     "nome": "Paulo Vieira",
-    "foto": null,
+    "foto": "/users-img/user-3.webp",
     "cargo": "Engenheiro de Dados",
     "telefone": "11943322106",
     "resumo": "Pipelines escaláveis e confiáveis.",
@@ -3250,7 +3250,7 @@
   {
     "id": 57,
     "nome": "Queila Damasceno",
-    "foto": null,
+    "foto": "/users-img/user-10.jpg",
     "cargo": "Analista de Qualidade",
     "telefone": "11942211005",
     "resumo": "Testes e garantia de qualidade contínua.",
@@ -3308,7 +3308,7 @@
   {
     "id": 58,
     "nome": "Renato Barbosa",
-    "foto": null,
+    "foto": "/users-img/user-5.webp",
     "cargo": "Engenheiro DevOps",
     "telefone": "11941100994",
     "resumo": "Automação e confiabilidade de ambientes.",
@@ -3366,7 +3366,7 @@
   {
     "id": 59,
     "nome": "Silvia Porto",
-    "foto": null,
+    "foto": "/users-img/user-2.webp",
     "cargo": "Analista de Produto",
     "telefone": "11940099843",
     "resumo": "Evolução de funcionalidades com foco em uso real.",
@@ -3424,7 +3424,7 @@
   {
     "id": 60,
     "nome": "Tiago Figueiredo",
-    "foto": null,
+    "foto": "/users-img/user-7.jpeg",
     "cargo": "Engenheiro de Software",
     "telefone": "11949988752",
     "resumo": "Boas práticas e escalabilidade em serviços.",
