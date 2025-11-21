@@ -14,7 +14,7 @@ interface InputFieldProps {
     id?: string;
     width?: string;
     icon?: React.ReactNode | null;
-    onChange?: (val: string | number | React.ChangeEvent<HTMLInputElement> | undefined) => void;
+    onChange?: (eventOrValue: React.ChangeEvent<HTMLInputElement> | string | number) => void;
     mask?: string | null;
     isDisabled?: boolean;
     required?: boolean;
@@ -82,7 +82,7 @@ const InputField = forwardRef<HTMLInputElement, InputFieldProps>((props, ref) =>
                         id={id}
                         className={`text ${className}`}
                         placeholder={`${placeholder}...`}
-                        onChange={(e) => onChange && onChange(e)}
+                        onChange={(e) => onChange?.(e)}
                         disabled={isDisabled}
                         required={required}
                         minLength={minLength}
@@ -97,11 +97,11 @@ const InputField = forwardRef<HTMLInputElement, InputFieldProps>((props, ref) =>
                         id={id}
                         className={`text ${className}`}
                         placeholder={`${placeholder}...`}
-                        onAccept={(val: string) => onChange && onChange(val)}
                         disabled={isDisabled}
                         required={required}
                         minLength={minLength}
                         inputRef={ref as React.Ref<HTMLInputElement>}
+                        onAccept={(val: string) => onChange?.(val)}
                     />
                 )}
             </>

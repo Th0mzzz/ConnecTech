@@ -9,7 +9,7 @@ export default function HeroSection({targetId = "search-section"}: { targetId?: 
     };
     return (
         <>
-            <section className={styles.heroSection}>
+            <section className={`${styles.heroSection} px-4 py-8`}>
                 <div className={styles.content}>
                     <h1 className={"title"}>O lugar para certo para o conexão certa!</h1>
                     <p className={"text mb-4"}>Pesquise e se conecte com os mais diversos profissionais do

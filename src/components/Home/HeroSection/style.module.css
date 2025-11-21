@@ -3,7 +3,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 2rem clamp(1.2rem, 10vw, 2.5rem);
 
     & .content {
         display: flex;
