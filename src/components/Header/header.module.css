@@ -1,0 +1,108 @@
+.header {
+    width: 100%;
+    background-color: #ffffff;
+    border: var(--border-color) solid 2px;
+
+    & nav {
+        margin: 0 auto;
+        padding: 0.8rem 1.4rem;
+        max-width: var(--max-content);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+.logotipo {
+    display: flex;
+    align-items: center;
+
+    & img {
+        width: clamp(180px, 25vw, 200px);
+    }
+}
+
+@media (max-width: 596px) {
+    .logotipo {
+        & img {
+            width: clamp(55px, 40vw, 65px);
+        }
+    }
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    gap: clamp(15px, 3vw, 20px);
+
+    & a {
+        text-decoration: none;
+        color: var(--text);
+        transition: 0.3s;
+        position: relative;
+
+        &::after {
+            content: "";
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 100%;
+            display: block;
+            border-bottom: 2px solid var(--primary);
+            transform: scaleX(0);
+            transition: transform 250ms ease-in-out;
+            transform-origin: right;
+            margin-top: 3px;
+        }
+
+        &:hover {
+            color: var(--primary-bold);
+
+            &::after {
+                transform: scaleX(1);
+                transform-origin: left;
+            }
+        }
+    }
+}
+
+.menuItem {
+    color: var(--secondary);
+    font-weight: 700;
+
+    &:hover {
+        color: var(--secondary);
+        background: var(--border-color);
+    }
+}
+
+.user {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .5rem;
+
+    & img {
+        width: clamp(50px, 20vw, 60px);
+        border-radius: 50%;
+        border: var(--border-color) solid 1px;
+        object-fit: cover;
+    }
+}
+
+.menuLateral {
+    position: fixed;
+    left: -120%;
+    height: 100vh;
+    padding: 1rem;
+    width: 100%;
+    max-width: 420px;
+    background: var(--surface);
+    border-right: 1px solid var(--border-color);
+    transition: left 0.6s;
+    z-index: 1000;
+
+    &.active {
+        left: 0;
+    }
+}
