@@ -1,0 +1,21 @@
+.heroSection {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem clamp(1.2rem, 10vw, 2.5rem);
+
+    & .content {
+        display: flex;
+        flex-direction: column;
+        gap: 0.6rem;
+        justify-content: center;
+        align-items: start;
+        width: 100%;
+        max-width: var(--max-content);
+        background: linear-gradient(to left, var(--secondary) 5%, var(--primary) 45%, var(--primary-bold));
+        padding: 1.4rem clamp(1.2rem, 10vw, 3rem);
+        border-radius: 8px;
+        height: 350px;
+    }
+}
