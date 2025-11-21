@@ -1,0 +1,13 @@
+.tag {
+    display: inline-block;
+
+    &.primary {
+        background-color: rgba(108, 92, 231, 0.47);
+        color: #6C5CE7FF;
+    }
+
+    &.secondary {
+        background-color: rgba(78, 113, 255, 0.51);
+        color: #4E71FFFF;
+    }
+}
