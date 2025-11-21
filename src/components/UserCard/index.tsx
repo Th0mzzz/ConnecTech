@@ -10,16 +10,17 @@ export default function UserCard({user, onClick}: { user: User, onClick?: () => 
                 className={`bg-[var(--surface)] border border-[var(--border-color)] rounded-lg flex flex-col overflow-hidden hover:scale-105 transition-transform duration-200 cursor-pointer`}>
                 <img src={user.foto ?? defaultUser} alt={`foto de ${user.nome}`}
                      className={"aspect-5/4 object-cover"}/>
-                <div className="p-4">
+                <div className="p-4 flex flex-col h-full">
                     <h3 className="link">{user.nome}</h3>
+                    <span className={"smalltext text-[var(--secondary)] mb-3"}>{user.cargo}</span>
                     <p className="text">{user.resumo.slice(0, 100) + ".."}</p>
-                    <div className="flex flex-wrap gap-2 mt-2">
+                    <div className="flex flex-wrap gap-2 my-2 ">
                         {user.habilidadesTecnicas.map((habilidad) => (
                             <Tag key={habilidad}>{habilidad}</Tag>
                         ))}
                     </div>
                     {onClick &&
-                        <Button onClick={onClick}>
+                        <Button onClick={onClick} className={"mt-auto w-full"}>
                             Ver mais
                         </Button>
                     }
