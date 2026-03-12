@@ -1,0 +1,122 @@
+.floatingStar {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    z-index: 1100;
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    background: var(--primary);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 18px rgba(108, 92, 231, 0.45);
+    transition: transform 0.3s ease, background 0.3s ease, box-shadow 0.3s ease;
+
+    &:hover {
+        background: var(--primary-bold);
+        transform: scale(1.12) rotate(20deg);
+        box-shadow: 0 6px 24px rgba(108, 92, 231, 0.6);
+    }
+}
+
+.starActive {
+    transform: rotate(180deg) scale(1.08);
+    background: var(--primary-bold);
+
+    &:hover {
+        transform: rotate(180deg) scale(1.12);
+    }
+}
+
+.topMenu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1050;
+    background: var(--surface);
+    border-bottom: 2px solid var(--border-color);
+    transform: translateY(-110%);
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+}
+
+.topMenu.active {
+    transform: translateY(0);
+}
+
+.topMenuInner {
+    max-width: var(--max-content);
+    margin: 0 auto;
+    padding: 1rem 1.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.topMenuNav {
+    flex: 1;
+}
+
+.topMenuLinks {
+    list-style: none;
+    display: flex;
+    gap: clamp(12px, 3vw, 28px);
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.topMenuLink {
+    text-decoration: none;
+    color: var(--text);
+    font-family: var(--ff-link);
+    font-weight: 600;
+    font-size: 15px;
+    padding: 0.4rem 0;
+    position: relative;
+    transition: color 0.25s;
+
+    &::after {
+        content: "";
+        position: absolute;
+        bottom: -3px;
+        left: 0;
+        width: 100%;
+        display: block;
+        border-bottom: 2px solid var(--primary);
+        transform: scaleX(0);
+        transition: transform 250ms ease-in-out;
+        transform-origin: right;
+    }
+
+    &:hover {
+        color: var(--primary);
+
+        &::after {
+            transform: scaleX(1);
+            transform-origin: left;
+        }
+    }
+}
+
+.topMenuSocial {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    color: var(--text);
+
+    & a {
+        color: var(--text);
+        transition: color 0.25s;
+
+        &:hover {
+            color: var(--primary);
+        }
+    }
+}
